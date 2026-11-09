@@ -5,6 +5,7 @@ feedback: true
 icon:
   item: "minecraft:furnace"
 ---
+
 Это вводный абзац. Тут карточки, 3D-сцена, рецепт и таблицы.
 
 # Карточки предметов {#item-cards icon-item="minecraft:chest"}
@@ -50,11 +51,11 @@ icon:
 
 # Таблицы {#tables}
 
-| Предмет | Что делает |
-|:---|:---|
-| <item id="minecraft:chest" /> | Хранит вещи |
-| <item id="minecraft:furnace" /> | Плавит руду |
-| <item id="minecraft:crafting_table" /> | Крафтит |
+| Предмет                                | Что делает  |
+| :------------------------------------- | :---------- |
+| <item id="minecraft:chest" />          | Хранит вещи |
+| <item id="minecraft:furnace" />        | Плавит руду |
+| <item id="minecraft:crafting_table" /> | Крафтит     |
 
 ## Таблица с настройкой столбцов {#table-widths}
 
