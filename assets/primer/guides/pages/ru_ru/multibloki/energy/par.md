@@ -14,7 +14,7 @@ icon:
 
 # Постройка {#building_boiler}
 
-:::scheme{src="pages/ru_ru/multibloki/energy/scenes/par1.scene.json" caption="Пример МЭ-сети"}
+:::scheme{src="pages/ru_ru/multibloki/energy/scenes/par1.scene.json" caption="Пример мультиблочной структуры"}
 <text key="Inter">
 Тут может быть любой мэ интерфейс
 </text>
@@ -24,9 +24,9 @@ icon:
 </text>
 :::
 
-Промышленный паровой котёл строится при помощи строителя мультиструктур.
+Промышленный паровой котёл строится при помощи <item id="loli_utility:structure_builder" />.
 
-Ресурсы унжные для постройки:
+Ресурсы нужные для постройки:
 
 - <item id="lolienergistics:industrial_steam_boiler" count="1"/>
 - <item id="lolienergistics:niobium_tank" count="2"/>
