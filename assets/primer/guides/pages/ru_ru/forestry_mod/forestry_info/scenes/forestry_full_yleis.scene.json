@@ -1,0 +1,631 @@
+{
+  "format": "luminous:scene",
+  "version": 1,
+  "structure": {
+    "size": [
+      13,
+      1,
+      4
+    ],
+    "palette": [
+      {
+        "block": "lolidimensions:swamp_hive",
+        "meta": 0
+      },
+      {
+        "block": "lolidimensions:tropical_hive",
+        "meta": 0
+      },
+      {
+        "block": "lolidimensions:water_hive",
+        "meta": 0
+      },
+      {
+        "block": "lolidimensions:desert_hive",
+        "meta": 0
+      },
+      {
+        "block": "lolidimensions:meadow_hive",
+        "meta": 0
+      },
+      {
+        "block": "lolidimensions:snow_hive",
+        "meta": 0
+      },
+      {
+        "block": "lolidimensions:forest_hive",
+        "meta": 0
+      },
+      {
+        "block": "lolidimensions:infernal_hive",
+        "meta": 0
+      },
+      {
+        "block": "lolidimensions:rock_hive",
+        "meta": 0
+      },
+      {
+        "block": "lolidimensions:resonant_hive",
+        "meta": 0
+      },
+      {
+        "block": "lolidimensions:enchanted_hive",
+        "meta": 0
+      },
+      {
+        "block": "lolidimensions:oblivion_hive",
+        "meta": 0
+      },
+      {
+        "block": "lolidimensions:deep_hive",
+        "meta": 0
+      }
+    ],
+    "blocks": [
+      {
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "state": 0,
+        "data": {
+          "type": "lolidimensions:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {},
+            "visual": {
+              "t": 10,
+              "v": {}
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          0,
+          0,
+          3
+        ],
+        "state": 1,
+        "data": {
+          "type": "lolidimensions:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {},
+            "visual": {
+              "t": 10,
+              "v": {}
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          0,
+          0
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolidimensions:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {},
+            "visual": {
+              "t": 10,
+              "v": {}
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          0,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolidimensions:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {},
+            "visual": {
+              "t": 10,
+              "v": {}
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          4,
+          0,
+          0
+        ],
+        "state": 4,
+        "data": {
+          "type": "lolidimensions:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {},
+            "visual": {
+              "t": 10,
+              "v": {}
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          4,
+          0,
+          3
+        ],
+        "state": 5,
+        "data": {
+          "type": "lolidimensions:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {},
+            "visual": {
+              "t": 10,
+              "v": {}
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          6,
+          0,
+          0
+        ],
+        "state": 6,
+        "data": {
+          "type": "lolidimensions:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {},
+            "visual": {
+              "t": 10,
+              "v": {}
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          6,
+          0,
+          3
+        ],
+        "state": 7,
+        "data": {
+          "type": "lolidimensions:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {},
+            "visual": {
+              "t": 10,
+              "v": {}
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          8,
+          0,
+          0
+        ],
+        "state": 8,
+        "data": {
+          "type": "lolidimensions:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {},
+            "visual": {
+              "t": 10,
+              "v": {}
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          8,
+          0,
+          3
+        ],
+        "state": 9,
+        "data": {
+          "type": "lolidimensions:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {},
+            "visual": {
+              "t": 10,
+              "v": {}
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          10,
+          0,
+          0
+        ],
+        "state": 10,
+        "data": {
+          "type": "lolidimensions:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {},
+            "visual": {
+              "t": 10,
+              "v": {}
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          10,
+          0,
+          3
+        ],
+        "state": 11,
+        "data": {
+          "type": "lolidimensions:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {},
+            "visual": {
+              "t": 10,
+              "v": {}
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          12,
+          0,
+          0
+        ],
+        "state": 12,
+        "data": {
+          "type": "lolidimensions:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {},
+            "visual": {
+              "t": 10,
+              "v": {}
+            }
+          }
+        }
+      }
+    ],
+    "entities": []
+  },
+  "view": {
+    "yaw": -81.89999999999998,
+    "pitch": 10.699999999999957,
+    "zoom": 1.2271443705236387,
+    "fov": 110.0,
+    "target": [
+      6.5,
+      0.5,
+      2.0
+    ]
+  },
+  "lighting": {
+    "time": 6000,
+    "brightness": 1.0
+  },
+  "components": [
+    {
+      "id": "a7f68da4-781f-4340-bf66-8425117924d1",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          4,
+          0,
+          3
+        ],
+        "face": 1,
+        "offset": [
+          0.3894210521522936,
+          1.008,
+          0.4006119957859906
+        ]
+      },
+      "data": {
+        "textKey": "snow_ylei"
+      }
+    },
+    {
+      "id": "ea70835c-2cc4-4daa-b659-1e3dc1205fa9",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          6,
+          0,
+          3
+        ],
+        "face": 1,
+        "offset": [
+          0.5342143689675503,
+          1.008,
+          0.29486341014407946
+        ]
+      },
+      "data": {
+        "textKey": "nether_ylei"
+      }
+    },
+    {
+      "id": "ca6a9c3a-2d21-4381-a040-13f3e9cbc92d",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          8,
+          0,
+          3
+        ],
+        "face": 1,
+        "offset": [
+          0.4632795621779753,
+          1.008,
+          0.34715691718293185
+        ]
+      },
+      "data": {
+        "textKey": "rezon_ylei"
+      }
+    },
+    {
+      "id": "bf3c65a9-f9a5-4a3b-b3a1-6eb16403c995",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          10,
+          0,
+          3
+        ],
+        "face": 1,
+        "offset": [
+          0.32313884071457544,
+          1.008,
+          0.39806089153083946
+        ]
+      },
+      "data": {
+        "textKey": "zabven_ylei"
+      }
+    },
+    {
+      "id": "a8755172-4e63-41b0-a098-fdcc9b557434",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "face": 1,
+        "offset": [
+          0.5726934759259117,
+          1.008,
+          0.34911262614321725
+        ]
+      },
+      "data": {
+        "textKey": "bolot_ylei"
+      }
+    },
+    {
+      "id": "5a220820-9d8b-4818-9170-504f2fdbf006",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          2,
+          0,
+          0
+        ],
+        "face": 1,
+        "offset": [
+          0.6253649345263446,
+          1.008,
+          0.4271770635800801
+        ]
+      },
+      "data": {
+        "textKey": "water_ylei"
+      }
+    },
+    {
+      "id": "7295c358-4d55-4874-9e41-0d28e39a8536",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          4,
+          0,
+          0
+        ],
+        "face": 1,
+        "offset": [
+          0.5788645036973445,
+          1.008,
+          0.47533869789920835
+        ]
+      },
+      "data": {
+        "textKey": "lyg_ylei"
+      }
+    },
+    {
+      "id": "ad891f08-9510-40b9-a108-f0072d412816",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          6,
+          0,
+          0
+        ],
+        "face": 1,
+        "offset": [
+          0.3823243473932223,
+          1.008,
+          0.5752618567719545
+        ]
+      },
+      "data": {
+        "textKey": "forest_ylei"
+      }
+    },
+    {
+      "id": "aa172ca9-ed71-4fc6-9450-76e5221ecd82",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          8,
+          0,
+          0
+        ],
+        "face": 1,
+        "offset": [
+          0.33068641550051403,
+          1.008,
+          0.46255550691826797
+        ]
+      },
+      "data": {
+        "textKey": "stone_ylei"
+      }
+    },
+    {
+      "id": "46107fe0-48e7-4a92-98d2-033f4b312c86",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          10,
+          0,
+          0
+        ],
+        "face": 1,
+        "offset": [
+          0.3968134634175229,
+          1.008,
+          0.42191341306617136
+        ]
+      },
+      "data": {
+        "textKey": "enchant_ylei"
+      }
+    },
+    {
+      "id": "5394e2f8-3119-43a7-942a-95c86494c289",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          12,
+          0,
+          0
+        ],
+        "face": 1,
+        "offset": [
+          0.45748708212714995,
+          1.008,
+          0.4437828597896838
+        ]
+      },
+      "data": {
+        "textKey": "glybin_ylei"
+      }
+    },
+    {
+      "id": "8f370ae5-88a2-495d-9861-438cb7d21980",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          2,
+          0,
+          3
+        ],
+        "face": 1,
+        "offset": [
+          0.5627820016190905,
+          1.008,
+          0.3640053199320401
+        ]
+      },
+      "data": {
+        "textKey": "desert_ylei"
+      }
+    },
+    {
+      "id": "5ba38c9d-6b51-43fc-8e34-b11c6c138bc7",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          0,
+          0,
+          3
+        ],
+        "face": 1,
+        "offset": [
+          0.7124194937338677,
+          1.008,
+          0.34034904823790946
+        ]
+      },
+      "data": {
+        "textKey": "trop_ylei"
+      }
+    }
+  ]
+}

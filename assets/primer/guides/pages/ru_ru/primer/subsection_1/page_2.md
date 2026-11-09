@@ -5,6 +5,7 @@ feedback: true
 icon:
   item: "minecraft:chest"
 ---
+
 Это вводный абзац. На этой странице предметы, клавиши, подсказки и плашки.
 
 # Предметы {#items icon-item="minecraft:chest"}
