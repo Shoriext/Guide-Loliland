@@ -1,0 +1,744 @@
+{
+  "format": "luminous:scene",
+  "version": 1,
+  "structure": {
+    "size": [
+      1,
+      2,
+      6
+    ],
+    "palette": [
+      {
+        "block": "appliedenergistics2:tile.BlockDrive",
+        "meta": 0
+      },
+      {
+        "block": "appliedenergistics2:tile.BlockCableBus",
+        "meta": 0
+      },
+      {
+        "block": "appliedenergistics2:tile.BlockController",
+        "meta": 1
+      },
+      {
+        "block": "lolienergistics:blockQuantumSolarPanel",
+        "meta": 0
+      }
+    ],
+    "blocks": [
+      {
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "state": 0,
+        "data": {
+          "type": "appliedenergistics2:block",
+          "version": 2,
+          "data": {
+            "t": 10,
+            "v": {
+              "id": {
+                "t": 8,
+                "v": "BlockDrive"
+              },
+              "inv": {
+                "t": 10,
+                "v": {
+                  "item0": {
+                    "t": 10,
+                    "v": {
+                      "Count": {
+                        "t": 1,
+                        "v": 1
+                      },
+                      "Damage": {
+                        "t": 2,
+                        "v": 0
+                      },
+                      "id": {
+                        "t": "item",
+                        "v": "appliedenergistics2:item.ItemBasicStorageCell.16384k",
+                        "n": 2
+                      },
+                      "tag": {
+                        "t": 10,
+                        "v": {}
+                      }
+                    }
+                  }
+                }
+              },
+              "orientation_forward": {
+                "t": 8,
+                "v": "EAST"
+              },
+              "orientation_up": {
+                "t": 8,
+                "v": "UP"
+              },
+              "priority": {
+                "t": 3,
+                "v": 0
+              },
+              "proxy": {
+                "t": 10,
+                "v": {
+                  "g": {
+                    "t": 4,
+                    "v": 6360787160232720814
+                  },
+                  "p": {
+                    "t": 3,
+                    "v": -1
+                  }
+                }
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "blinkAge": {
+                  "t": 4,
+                  "v": 11263228
+                },
+                "state": {
+                  "t": 3,
+                  "v": -2147483647
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          0,
+          0,
+          1
+        ],
+        "state": 1,
+        "data": {
+          "type": "appliedenergistics2:block",
+          "version": 2,
+          "data": {
+            "t": 10,
+            "v": {
+              "def:6": {
+                "t": 10,
+                "v": {
+                  "Count": {
+                    "t": 1,
+                    "v": 1
+                  },
+                  "Damage": {
+                    "t": 2,
+                    "v": 20
+                  },
+                  "id": {
+                    "t": "item",
+                    "v": "appliedenergistics2:item.ItemMultiPart",
+                    "n": 2
+                  }
+                }
+              },
+              "extra:6": {
+                "t": 10,
+                "v": {
+                  "part": {
+                    "t": 10,
+                    "v": {
+                      "g": {
+                        "t": 4,
+                        "v": 6360787160232720814
+                      },
+                      "p": {
+                        "t": 3,
+                        "v": -1
+                      }
+                    }
+                  },
+                  "usedChannels": {
+                    "t": 1,
+                    "v": 1
+                  }
+                }
+              },
+              "hasRedstone": {
+                "t": 3,
+                "v": 2
+              },
+              "id": {
+                "t": 8,
+                "v": "BlockCableBus"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "UNKNOWN": {
+                  "t": 10,
+                  "v": {
+                    "connections": {
+                      "t": 3,
+                      "v": 12
+                    },
+                    "powered": {
+                      "t": 1,
+                      "v": 1
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          0,
+          0,
+          2
+        ],
+        "state": 1,
+        "data": {
+          "type": "appliedenergistics2:block",
+          "version": 2,
+          "data": {
+            "t": 10,
+            "v": {
+              "def:6": {
+                "t": 10,
+                "v": {
+                  "Count": {
+                    "t": 1,
+                    "v": 1
+                  },
+                  "Damage": {
+                    "t": 2,
+                    "v": 20
+                  },
+                  "id": {
+                    "t": "item",
+                    "v": "appliedenergistics2:item.ItemMultiPart",
+                    "n": 2
+                  }
+                }
+              },
+              "extra:6": {
+                "t": 10,
+                "v": {
+                  "part": {
+                    "t": 10,
+                    "v": {
+                      "g": {
+                        "t": 4,
+                        "v": 6360787160232720814
+                      },
+                      "p": {
+                        "t": 3,
+                        "v": -1
+                      }
+                    }
+                  },
+                  "usedChannels": {
+                    "t": 1,
+                    "v": 1
+                  }
+                }
+              },
+              "hasRedstone": {
+                "t": 3,
+                "v": 2
+              },
+              "id": {
+                "t": 8,
+                "v": "BlockCableBus"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "UNKNOWN": {
+                  "t": 10,
+                  "v": {
+                    "connections": {
+                      "t": 3,
+                      "v": 12
+                    },
+                    "powered": {
+                      "t": 1,
+                      "v": 1
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          0,
+          0,
+          3
+        ],
+        "state": 1,
+        "data": {
+          "type": "appliedenergistics2:block",
+          "version": 2,
+          "data": {
+            "t": 10,
+            "v": {
+              "def:6": {
+                "t": 10,
+                "v": {
+                  "Count": {
+                    "t": 1,
+                    "v": 1
+                  },
+                  "Damage": {
+                    "t": 2,
+                    "v": 20
+                  },
+                  "id": {
+                    "t": "item",
+                    "v": "appliedenergistics2:item.ItemMultiPart",
+                    "n": 2
+                  }
+                }
+              },
+              "extra:6": {
+                "t": 10,
+                "v": {
+                  "part": {
+                    "t": 10,
+                    "v": {
+                      "g": {
+                        "t": 4,
+                        "v": 6360787160232720814
+                      },
+                      "p": {
+                        "t": 3,
+                        "v": -1
+                      }
+                    }
+                  },
+                  "usedChannels": {
+                    "t": 1,
+                    "v": 1
+                  }
+                }
+              },
+              "hasRedstone": {
+                "t": 3,
+                "v": 2
+              },
+              "id": {
+                "t": 8,
+                "v": "BlockCableBus"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "UNKNOWN": {
+                  "t": 10,
+                  "v": {
+                    "connections": {
+                      "t": 3,
+                      "v": 12
+                    },
+                    "powered": {
+                      "t": 1,
+                      "v": 1
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          0,
+          0,
+          4
+        ],
+        "state": 2,
+        "data": {
+          "type": "appliedenergistics2:block",
+          "version": 2,
+          "data": {
+            "t": 10,
+            "v": {
+              "id": {
+                "t": 8,
+                "v": "BlockController"
+              },
+              "internalCurrentPower": {
+                "t": 6,
+                "v": 8000.0
+              },
+              "inv": {
+                "t": 10,
+                "v": {}
+              },
+              "orientation_forward": {
+                "t": 8,
+                "v": "EAST"
+              },
+              "orientation_up": {
+                "t": 8,
+                "v": "UP"
+              },
+              "proxy": {
+                "t": 10,
+                "v": {
+                  "g": {
+                    "t": 4,
+                    "v": 6360787160232720814
+                  },
+                  "p": {
+                    "t": 3,
+                    "v": -1
+                  }
+                }
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {}
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          0,
+          0,
+          5
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "InvSlots": {
+                "t": 10,
+                "v": {
+                  "charge": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 0,
+                        "v": []
+                      }
+                    }
+                  }
+                }
+              },
+              "active": {
+                "t": 1,
+                "v": 1
+              },
+              "energyOutput": {
+                "t": 6,
+                "v": 8192.0
+              },
+              "energyStorage": {
+                "t": 6,
+                "v": 1.0E+7
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "generationDay": {
+                "t": 6,
+                "v": 4096.0
+              },
+              "generationNight": {
+                "t": 6,
+                "v": 2048.0
+              },
+              "hasNoSky": {
+                "t": 1,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "TileEnergySolarPanel"
+              },
+              "isCreative": {
+                "t": 1,
+                "v": 0
+              },
+              "name_x": {
+                "t": 8,
+                "v": "blockQuantumSolarPanel"
+              },
+              "storage": {
+                "t": 6,
+                "v": 4452352.0
+              },
+              "wetBiome": {
+                "t": 1,
+                "v": 1
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          0,
+          1,
+          4
+        ],
+        "state": 1,
+        "data": {
+          "type": "appliedenergistics2:block",
+          "version": 2,
+          "data": {
+            "t": 10,
+            "v": {
+              "def:5": {
+                "t": 10,
+                "v": {
+                  "Count": {
+                    "t": 1,
+                    "v": 1
+                  },
+                  "Damage": {
+                    "t": 2,
+                    "v": 360
+                  },
+                  "id": {
+                    "t": "item",
+                    "v": "appliedenergistics2:item.ItemMultiPart",
+                    "n": 2
+                  }
+                }
+              },
+              "def:6": {
+                "t": 10,
+                "v": {
+                  "Count": {
+                    "t": 1,
+                    "v": 1
+                  },
+                  "Damage": {
+                    "t": 2,
+                    "v": 20
+                  },
+                  "id": {
+                    "t": "item",
+                    "v": "appliedenergistics2:item.ItemMultiPart",
+                    "n": 2
+                  }
+                }
+              },
+              "extra:5": {
+                "t": 10,
+                "v": {
+                  "CONTENT_TYPE": {
+                    "t": 8,
+                    "v": "ALL"
+                  },
+                  "NOTIFY_ON_CRAFT_COMPLETE": {
+                    "t": 8,
+                    "v": "NO"
+                  },
+                  "SORT_BY": {
+                    "t": 8,
+                    "v": "NAME"
+                  },
+                  "SORT_DIRECTION": {
+                    "t": 8,
+                    "v": "ASCENDING"
+                  },
+                  "VIEW_MODE": {
+                    "t": 8,
+                    "v": "ALL"
+                  },
+                  "color": {
+                    "t": 1,
+                    "v": 0
+                  },
+                  "craftingGrid": {
+                    "t": 10,
+                    "v": {}
+                  },
+                  "opacity": {
+                    "t": 5,
+                    "v": 255.0
+                  },
+                  "part": {
+                    "t": 10,
+                    "v": {
+                      "g": {
+                        "t": 4,
+                        "v": 6360787160232720814
+                      },
+                      "p": {
+                        "t": 3,
+                        "v": -1
+                      }
+                    }
+                  },
+                  "spin": {
+                    "t": 1,
+                    "v": 0
+                  }
+                }
+              },
+              "extra:6": {
+                "t": 10,
+                "v": {
+                  "part": {
+                    "t": 10,
+                    "v": {
+                      "g": {
+                        "t": 4,
+                        "v": 6360787160232720814
+                      },
+                      "p": {
+                        "t": 3,
+                        "v": -1
+                      }
+                    }
+                  },
+                  "usedChannels": {
+                    "t": 1,
+                    "v": 1
+                  }
+                }
+              },
+              "hasRedstone": {
+                "t": 3,
+                "v": 2
+              },
+              "id": {
+                "t": 8,
+                "v": "BlockCableBus"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "EAST": {
+                  "t": 10,
+                  "v": {
+                    "flags": {
+                      "t": 3,
+                      "v": 20
+                    }
+                  }
+                },
+                "UNKNOWN": {
+                  "t": 10,
+                  "v": {
+                    "connections": {
+                      "t": 3,
+                      "v": 65
+                    },
+                    "powered": {
+                      "t": 1,
+                      "v": 1
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "entities": []
+  },
+  "view": {
+    "yaw": -90.00000000000031,
+    "pitch": 5.750000000000022,
+    "zoom": 1.0,
+    "fov": 70.0,
+    "target": [
+      0.5,
+      1.0,
+      3.0
+    ]
+  },
+  "lighting": {
+    "time": 6000,
+    "brightness": 1.0
+  },
+  "components": [
+    {
+      "id": "4b89d48a-f6c5-40ec-ba43-e24f16aac218",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          0,
+          0,
+          5
+        ],
+        "face": 5,
+        "offset": [
+          1.008,
+          0.6161172597299467,
+          0.5021110028805058
+        ]
+      },
+      "data": {
+        "textKey": "power"
+      }
+    },
+    {
+      "id": "5f16c885-7a04-4130-bb0e-30d6c95603c8",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "face": 5,
+        "offset": [
+          1.008,
+          0.6555460147984162,
+          0.6124169065544753
+        ]
+      },
+      "data": {
+        "textKey": "storage"
+      }
+    }
+  ]
+}

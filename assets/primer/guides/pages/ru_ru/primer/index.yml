@@ -1,0 +1,5 @@
+title: "Пример раздела"
+icon:
+  item: "minecraft:book"
+  meta: 0
+subsections: [subsection_1, subsection_2]

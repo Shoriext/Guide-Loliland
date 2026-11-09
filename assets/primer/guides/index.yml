@@ -1,0 +1,4 @@
+schemaVersion: 1
+defaultLocale: ru_ru
+fallbackLocales: [en_us]
+sourceOrder: 10
