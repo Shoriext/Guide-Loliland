@@ -1,0 +1,6151 @@
+{
+  "format": "luminous:scene",
+  "version": 1,
+  "structure": {
+    "size": [
+      5,
+      6,
+      5
+    ],
+    "palette": [
+      {
+        "block": "lolidecorative:colored_white",
+        "meta": 0
+      },
+      {
+        "block": "lolidecorative:colored_black",
+        "meta": 0
+      },
+      {
+        "block": "IC2:blockCable",
+        "meta": 9
+      },
+      {
+        "block": "lolienergistics:niobium_plating",
+        "meta": 0
+      },
+      {
+        "block": "lolienergistics:quantum_glass",
+        "meta": 0
+      },
+      {
+        "block": "appliedenergistics2:tile.BlockCableBus",
+        "meta": 0
+      },
+      {
+        "block": "lolienergistics:niobium_tank",
+        "meta": 0
+      },
+      {
+        "block": "lolienergistics:industrial_steam_boiler",
+        "meta": 0
+      }
+    ],
+    "blocks": [
+      {
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          0,
+          0,
+          1
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          0,
+          0,
+          2
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          0,
+          0,
+          3
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          0,
+          0,
+          4
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          1,
+          0,
+          0
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          1,
+          0,
+          1
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          1,
+          0,
+          2
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          1,
+          0,
+          3
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          1,
+          0,
+          4
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          1,
+          1,
+          0
+        ],
+        "state": 2,
+        "data": {
+          "type": "IC2:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "cableType": {
+                "t": 2,
+                "v": 9
+              },
+              "color": {
+                "t": 2,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 4
+              },
+              "foamColor": {
+                "t": 1,
+                "v": 0
+              },
+              "foamed": {
+                "t": 1,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "Cable"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "cableType": {
+                      "t": 2,
+                      "v": 9
+                    },
+                    "color": {
+                      "t": 2,
+                      "v": 0
+                    },
+                    "connectivity": {
+                      "t": 1,
+                      "v": 32
+                    },
+                    "foamColor": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "foamed": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "renderSide": {
+                      "t": 1,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          1,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          1,
+          2
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          1,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          2,
+          1
+        ],
+        "state": 4,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          2,
+          2
+        ],
+        "state": 4,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          2,
+          3
+        ],
+        "state": 4,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          3,
+          1
+        ],
+        "state": 4,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          3,
+          2
+        ],
+        "state": 4,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          3,
+          3
+        ],
+        "state": 4,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          4,
+          1
+        ],
+        "state": 4,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          4,
+          2
+        ],
+        "state": 4,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          4,
+          3
+        ],
+        "state": 4,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          5,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          5,
+          2
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          5,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          0,
+          0
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          2,
+          0,
+          1
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          2,
+          0,
+          2
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          2,
+          0,
+          3
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          2,
+          0,
+          4
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          2,
+          1,
+          0
+        ],
+        "state": 5,
+        "data": {
+          "type": "appliedenergistics2:block",
+          "version": 2,
+          "data": {
+            "t": 10,
+            "v": {
+              "def:3": {
+                "t": 10,
+                "v": {
+                  "Count": {
+                    "t": 1,
+                    "v": 1
+                  },
+                  "Damage": {
+                    "t": 2,
+                    "v": 440
+                  },
+                  "id": {
+                    "t": "item",
+                    "v": "appliedenergistics2:item.ItemMultiPart",
+                    "n": 2
+                  }
+                }
+              },
+              "def:6": {
+                "t": 10,
+                "v": {
+                  "Count": {
+                    "t": 1,
+                    "v": 1
+                  },
+                  "Damage": {
+                    "t": 2,
+                    "v": 60
+                  },
+                  "id": {
+                    "t": "item",
+                    "v": "loli_technologies:item.ItemMultiPart",
+                    "n": 2
+                  }
+                }
+              },
+              "extra:3": {
+                "t": 10,
+                "v": {
+                  "BLOCK": {
+                    "t": 8,
+                    "v": "NO"
+                  },
+                  "INTERFACE_TERMINAL": {
+                    "t": 8,
+                    "v": "YES"
+                  },
+                  "config": {
+                    "t": 10,
+                    "v": {}
+                  },
+                  "customName": {
+                    "t": 8,
+                    "v": ""
+                  },
+                  "icon": {
+                    "t": 10,
+                    "v": {}
+                  },
+                  "part": {
+                    "t": 10,
+                    "v": {
+                      "g": {
+                        "t": 4,
+                        "v": 5286692602428951921
+                      },
+                      "p": {
+                        "t": 3,
+                        "v": -1
+                      }
+                    }
+                  },
+                  "patterns": {
+                    "t": 10,
+                    "v": {}
+                  },
+                  "priority": {
+                    "t": 3,
+                    "v": 0
+                  },
+                  "storage": {
+                    "t": 10,
+                    "v": {
+                      "#0": {
+                        "t": 10,
+                        "v": {
+                          "Cnt": {
+                            "t": 4,
+                            "v": 100000
+                          },
+                          "Craft": {
+                            "t": 1,
+                            "v": 0
+                          },
+                          "Req": {
+                            "t": 4,
+                            "v": 0
+                          },
+                          "channel": {
+                            "t": 1,
+                            "v": 2
+                          },
+                          "gasName": {
+                            "t": 8,
+                            "v": "steam"
+                          }
+                        }
+                      },
+                      "#1": {
+                        "t": 10,
+                        "v": {
+                          "Cnt": {
+                            "t": 4,
+                            "v": 100000
+                          },
+                          "Craft": {
+                            "t": 1,
+                            "v": 0
+                          },
+                          "Req": {
+                            "t": 4,
+                            "v": 0
+                          },
+                          "channel": {
+                            "t": 1,
+                            "v": 2
+                          },
+                          "gasName": {
+                            "t": 8,
+                            "v": "steam"
+                          }
+                        }
+                      },
+                      "#2": {
+                        "t": 10,
+                        "v": {
+                          "Cnt": {
+                            "t": 4,
+                            "v": 100000
+                          },
+                          "Craft": {
+                            "t": 1,
+                            "v": 0
+                          },
+                          "Req": {
+                            "t": 4,
+                            "v": 0
+                          },
+                          "channel": {
+                            "t": 1,
+                            "v": 2
+                          },
+                          "gasName": {
+                            "t": 8,
+                            "v": "steam"
+                          }
+                        }
+                      },
+                      "#3": {
+                        "t": 10,
+                        "v": {
+                          "Cnt": {
+                            "t": 4,
+                            "v": 100000
+                          },
+                          "Craft": {
+                            "t": 1,
+                            "v": 0
+                          },
+                          "Req": {
+                            "t": 4,
+                            "v": 0
+                          },
+                          "channel": {
+                            "t": 1,
+                            "v": 2
+                          },
+                          "gasName": {
+                            "t": 8,
+                            "v": "steam"
+                          }
+                        }
+                      },
+                      "#4": {
+                        "t": 10,
+                        "v": {
+                          "Cnt": {
+                            "t": 4,
+                            "v": 100000
+                          },
+                          "Craft": {
+                            "t": 1,
+                            "v": 0
+                          },
+                          "Req": {
+                            "t": 4,
+                            "v": 0
+                          },
+                          "channel": {
+                            "t": 1,
+                            "v": 2
+                          },
+                          "gasName": {
+                            "t": 8,
+                            "v": "steam"
+                          }
+                        }
+                      },
+                      "#5": {
+                        "t": 10,
+                        "v": {
+                          "Cnt": {
+                            "t": 4,
+                            "v": 100000
+                          },
+                          "Craft": {
+                            "t": 1,
+                            "v": 0
+                          },
+                          "Req": {
+                            "t": 4,
+                            "v": 0
+                          },
+                          "channel": {
+                            "t": 1,
+                            "v": 2
+                          },
+                          "gasName": {
+                            "t": 8,
+                            "v": "steam"
+                          }
+                        }
+                      },
+                      "#6": {
+                        "t": 10,
+                        "v": {
+                          "Cnt": {
+                            "t": 4,
+                            "v": 100000
+                          },
+                          "Craft": {
+                            "t": 1,
+                            "v": 0
+                          },
+                          "Req": {
+                            "t": 4,
+                            "v": 0
+                          },
+                          "channel": {
+                            "t": 1,
+                            "v": 2
+                          },
+                          "gasName": {
+                            "t": 8,
+                            "v": "steam"
+                          }
+                        }
+                      },
+                      "#7": {
+                        "t": 10,
+                        "v": {
+                          "Cnt": {
+                            "t": 4,
+                            "v": 100000
+                          },
+                          "Craft": {
+                            "t": 1,
+                            "v": 0
+                          },
+                          "Req": {
+                            "t": 4,
+                            "v": 0
+                          },
+                          "channel": {
+                            "t": 1,
+                            "v": 2
+                          },
+                          "gasName": {
+                            "t": 8,
+                            "v": "steam"
+                          }
+                        }
+                      },
+                      "#8": {
+                        "t": 10,
+                        "v": {
+                          "Cnt": {
+                            "t": 4,
+                            "v": 100000
+                          },
+                          "Craft": {
+                            "t": 1,
+                            "v": 0
+                          },
+                          "Req": {
+                            "t": 4,
+                            "v": 0
+                          },
+                          "channel": {
+                            "t": 1,
+                            "v": 2
+                          },
+                          "gasName": {
+                            "t": 8,
+                            "v": "steam"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "upgrades": {
+                    "t": 10,
+                    "v": {}
+                  },
+                  "virtualStorage": {
+                    "t": 10,
+                    "v": {}
+                  }
+                }
+              },
+              "extra:6": {
+                "t": 10,
+                "v": {
+                  "part": {
+                    "t": 10,
+                    "v": {
+                      "g": {
+                        "t": 4,
+                        "v": 5286692602428951921
+                      },
+                      "p": {
+                        "t": 3,
+                        "v": -1
+                      }
+                    }
+                  },
+                  "usedChannels": {
+                    "t": 1,
+                    "v": 1
+                  }
+                }
+              },
+              "hasRedstone": {
+                "t": 3,
+                "v": 2
+              },
+              "id": {
+                "t": 8,
+                "v": "BlockCableBus"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "SOUTH": {
+                  "t": 10,
+                  "v": {
+                    "flags": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "UNKNOWN": {
+                  "t": 10,
+                  "v": {
+                    "connections": {
+                      "t": 3,
+                      "v": 64
+                    },
+                    "powered": {
+                      "t": 1,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          1,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          1,
+          2
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          1,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          2,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          2,
+          2
+        ],
+        "state": 6,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          2,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          3,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          3,
+          2
+        ],
+        "state": 7,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "InvSlots": {
+                "t": 10,
+                "v": {
+                  "discharge": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 0,
+                        "v": []
+                      }
+                    }
+                  },
+                  "scaleOutput": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 10,
+                        "v": [
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 0
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 1
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 2
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 3
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 4
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 5
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 6
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 7
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 8
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 9
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 10
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 11
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 12
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 13
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 14
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 15
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 16
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 17
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 18
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 19
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 20
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 21
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 22
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 23
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 24
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 25
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 26
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 27
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 28
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 29
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 30
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 31
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 32
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 33
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 34
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 35
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 36
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 37
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 38
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 39
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 40
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 41
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 42
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 43
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 44
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 45
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 46
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 47
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 48
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 49
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 50
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 51
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 52
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 53
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 54
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 55
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 56
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 57
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 58
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 59
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 60
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 61
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 62
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 63
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 65
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 66
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 67
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 68
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 69
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 70
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 71
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 72
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 73
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 74
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 75
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 76
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 77
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 78
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 79
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 80
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 81
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 82
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 83
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 84
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 85
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 86
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 87
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 88
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 89
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 90
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 91
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 92
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 93
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 94
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 95
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 96
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 64
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 97
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolidimensions:salt_crystal",
+                                "n": 2
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "upgrade": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 10,
+                        "v": [
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 1
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 0
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolienergistics:upgrade_resource_gen",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 1
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 0
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 1
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolienergistics:upgrade_quantum_generator",
+                                "n": 2
+                              }
+                            }
+                          },
+                          {
+                            "t": 10,
+                            "v": {
+                              "Count": {
+                                "t": 1,
+                                "v": 4
+                              },
+                              "Damage": {
+                                "t": 2,
+                                "v": 1
+                              },
+                              "Index": {
+                                "t": 1,
+                                "v": 2
+                              },
+                              "id": {
+                                "t": "item",
+                                "v": "lolienergistics:upgrade_module",
+                                "n": 2
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              },
+              "active": {
+                "t": 1,
+                "v": 1
+              },
+              "collected": {
+                "t": 1,
+                "v": 1
+              },
+              "energy": {
+                "t": 6,
+                "v": 224793.0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "heatCoolCounter": {
+                "t": 3,
+                "v": 3
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:industrial_steam_boiler"
+              },
+              "processCounter": {
+                "t": 3,
+                "v": 0
+              },
+              "scaleBuffer": {
+                "t": 3,
+                "v": 870
+              },
+              "steamTank": {
+                "t": 10,
+                "v": {
+                  "maxGas": {
+                    "t": 3,
+                    "v": 100000
+                  },
+                  "stored": {
+                    "t": 10,
+                    "v": {
+                      "amount": {
+                        "t": 3,
+                        "v": 99500
+                      },
+                      "gasName": {
+                        "t": 8,
+                        "v": "steam"
+                      }
+                    }
+                  }
+                }
+              },
+              "temperature": {
+                "t": 3,
+                "v": 600
+              },
+              "waterTank": {
+                "t": 10,
+                "v": {
+                  "Amount": {
+                    "t": 3,
+                    "v": 100000
+                  },
+                  "FluidName": {
+                    "t": 8,
+                    "v": "fresh_water"
+                  }
+                }
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "collected": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "compile": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    },
+                    "orientationIndex": {
+                      "t": 3,
+                      "v": 4
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          3,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          4,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          4,
+          2
+        ],
+        "state": 6,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          4,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          5,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          5,
+          2
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          5,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          0,
+          0
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          3,
+          0,
+          1
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          3,
+          0,
+          2
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          3,
+          0,
+          3
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          3,
+          0,
+          4
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          3,
+          1,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          1,
+          2
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          1,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          2,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          2,
+          2
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          2,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          3,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          3,
+          2
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          3,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          4,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          4,
+          2
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          4,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          5,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          5,
+          2
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          5,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 3
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          4,
+          0,
+          0
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          4,
+          0,
+          1
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          4,
+          0,
+          2
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          4,
+          0,
+          3
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          4,
+          0,
+          4
+        ],
+        "state": 0
+      }
+    ],
+    "entities": []
+  },
+  "view": {
+    "yaw": 126.00000000000075,
+    "pitch": 23.30000000000002,
+    "zoom": 1.0,
+    "fov": 70.0,
+    "target": [
+      2.5,
+      3.0,
+      2.5
+    ]
+  },
+  "lighting": {
+    "time": 6000,
+    "brightness": 1.0
+  },
+  "components": [
+    {
+      "id": "92d82a49-05fa-4e9e-b1f4-008f4ae223c4",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          2,
+          1,
+          0
+        ],
+        "face": 1,
+        "offset": [
+          0.3608810394190023,
+          0.6955,
+          0.38733582157406854
+        ]
+      },
+      "data": {
+        "textKey": "Inter"
+      }
+    },
+    {
+      "id": "e2d52ac2-9f7c-47e9-a266-88429435d87e",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          1,
+          1,
+          0
+        ],
+        "face": 1,
+        "offset": [
+          0.4823325342437488,
+          0.633,
+          0.6035542065459345
+        ]
+      },
+      "data": {
+        "textKey": "energy"
+      }
+    }
+  ]
+}
