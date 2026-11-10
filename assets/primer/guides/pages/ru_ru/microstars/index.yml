@@ -1,5 +1,5 @@
-title: "Пример раздела"
+title: "LoliEnergistics"
 icon:
-  item: "minecraft:book"
+  item: "lolienergistics:charged_neutron_star"
   meta: 0
 subsections: [subsection_1]
