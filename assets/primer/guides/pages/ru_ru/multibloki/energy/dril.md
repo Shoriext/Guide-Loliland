@@ -29,7 +29,7 @@ icon:
 :::
 # Установка 2 уровня {#scene-level-2 icon-item="lolienergistics:drill_bit"}
 
-:::scheme{src="pages/ru_ru/primer/subsection_1/scenes/drill_2.scene.scene.json" caption="Буровая установка 2 уровня"}
+:::scheme{src="pages/ru_ru/primer/subsection_1/scenes/drill_2.scene.json" caption="Буровая установка 2 уровня"}
 <text key="energy" header="Энергия">
 Сюда подключается энергия.
 </text>
