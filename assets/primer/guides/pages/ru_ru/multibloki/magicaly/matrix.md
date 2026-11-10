@@ -6,7 +6,7 @@ icon:
   item: "Thaumcraft:blockStoneDevice"
   meta: 2
 ---
-Наполнение предметов магией - один из основных способов получения различных артефактов мода Thaumcraft, который выполняется на <item id="Thaumcraft:blockStoneDevice" meta="2">рунической матрице</item>.
+Наполнение предметов магией – один из основных способов получения магических артефактов, который выполняется на <item id="Thaumcraft:blockStoneDevice" meta="2">рунической матрице</item>.
 
 :::callout{type="tip"}
 Перед тем как построить матрицу необходимо изучить ее в <item id="Thaumcraft:ItemThaumonomicon">таумономиконе</item> в разделе **изобретения**, там же вы сможете найти ее структуру
@@ -31,9 +31,7 @@ icon:
 - <item id="Botania:pylon" />
   - Любые пилоны
 - <item id="lolimagically:infusion_stabilizer" />
-:::callout{type="tip"}
-Чтобы проверить стабилизацию вашей матрицы используйте <item id="lolimagically:magical_eye" />
-:::
+
 :::callout{type="tip"}
 Наиболее эффективным стабилизатором является <item id="lolimagically:infusion_stabilizer" />, хватает поставить всего один!
 :::
@@ -41,3 +39,4 @@ icon:
 # Полезные предметы для матрицы {#utility}
 - <item id="lolimagically:infusion_accelerator" />
 - <item id="lolimagically:infusion_activator" />
+- <item id="lolimagically:magical_eye" />
