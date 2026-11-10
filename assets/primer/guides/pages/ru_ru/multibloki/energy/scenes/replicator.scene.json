@@ -1,0 +1,2822 @@
+{
+  "format": "luminous:scene",
+  "version": 1,
+  "structure": {
+    "size": [
+      5,
+      5,
+      5
+    ],
+    "palette": [
+      {
+        "block": "lolidecorative:colored_black",
+        "meta": 0
+      },
+      {
+        "block": "lolidecorative:colored_white",
+        "meta": 0
+      },
+      {
+        "block": "lolienergistics:niobium_plating",
+        "meta": 0
+      },
+      {
+        "block": "lolienergistics:quantum_glass",
+        "meta": 0
+      },
+      {
+        "block": "IC2:blockCable",
+        "meta": 9
+      },
+      {
+        "block": "lolienergistics:legendary_replicator_core",
+        "meta": 0
+      },
+      {
+        "block": "appliedenergistics2:tile.BlockCableBus",
+        "meta": 0
+      }
+    ],
+    "blocks": [
+      {
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          0,
+          0,
+          1
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          0,
+          0,
+          2
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          0,
+          0,
+          3
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          0,
+          0,
+          4
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          1,
+          0,
+          0
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          1,
+          0,
+          1
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          1,
+          0,
+          2
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          1,
+          0,
+          3
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          1,
+          0,
+          4
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          1,
+          1,
+          1
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          1,
+          2
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          1,
+          3
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          2,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          2,
+          2
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          2,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          3,
+          1
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          3,
+          2
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          3,
+          3
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          0,
+          0
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          2,
+          0,
+          1
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          2,
+          0,
+          2
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          2,
+          0,
+          3
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          2,
+          0,
+          4
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          2,
+          1,
+          1
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          1,
+          2
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          1,
+          3
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          1,
+          4
+        ],
+        "state": 4,
+        "data": {
+          "type": "IC2:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "cableType": {
+                "t": 2,
+                "v": 9
+              },
+              "color": {
+                "t": 2,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 5
+              },
+              "foamColor": {
+                "t": 1,
+                "v": 0
+              },
+              "foamed": {
+                "t": 1,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "Cable"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "cableType": {
+                      "t": 2,
+                      "v": 9
+                    },
+                    "color": {
+                      "t": 2,
+                      "v": 0
+                    },
+                    "connectivity": {
+                      "t": 1,
+                      "v": 16
+                    },
+                    "foamColor": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "foamed": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "renderSide": {
+                      "t": 1,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          2,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          2,
+          2
+        ],
+        "state": 5,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "InvSlots": {
+                "t": 10,
+                "v": {
+                  "discharge": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 0,
+                        "v": []
+                      }
+                    }
+                  },
+                  "input_0": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 0,
+                        "v": []
+                      }
+                    }
+                  },
+                  "input_1": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 0,
+                        "v": []
+                      }
+                    }
+                  },
+                  "input_2": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 0,
+                        "v": []
+                      }
+                    }
+                  },
+                  "input_3": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 0,
+                        "v": []
+                      }
+                    }
+                  },
+                  "input_4": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 0,
+                        "v": []
+                      }
+                    }
+                  },
+                  "input_5": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 0,
+                        "v": []
+                      }
+                    }
+                  },
+                  "input_6": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 0,
+                        "v": []
+                      }
+                    }
+                  },
+                  "input_7": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 0,
+                        "v": []
+                      }
+                    }
+                  },
+                  "input_8": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 0,
+                        "v": []
+                      }
+                    }
+                  },
+                  "output": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 0,
+                        "v": []
+                      }
+                    }
+                  },
+                  "upgrade": {
+                    "t": 10,
+                    "v": {
+                      "Contents": {
+                        "t": 9,
+                        "e": 0,
+                        "v": []
+                      }
+                    }
+                  }
+                }
+              },
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "collected": {
+                "t": 1,
+                "v": 1
+              },
+              "energy": {
+                "t": 6,
+                "v": 2000000.0
+              },
+              "extraUuStored": {
+                "t": 6,
+                "v": 0.0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "fluidTank": {
+                "t": 10,
+                "v": {
+                  "Empty": {
+                    "t": 8,
+                    "v": ""
+                  }
+                }
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:legendary_replicator_core"
+              },
+              "mode": {
+                "t": 3,
+                "v": 1
+              },
+              "patterns": {
+                "t": 9,
+                "e": 10,
+                "v": [
+                  {
+                    "t": 10,
+                    "v": {
+                      "patternUU": {
+                        "t": 6,
+                        "v": 0.0
+                      },
+                      "processedUU": {
+                        "t": 6,
+                        "v": 0.0
+                      }
+                    }
+                  },
+                  {
+                    "t": 10,
+                    "v": {
+                      "patternUU": {
+                        "t": 6,
+                        "v": 0.0
+                      },
+                      "processedUU": {
+                        "t": 6,
+                        "v": 0.0
+                      }
+                    }
+                  },
+                  {
+                    "t": 10,
+                    "v": {
+                      "patternUU": {
+                        "t": 6,
+                        "v": 0.0
+                      },
+                      "processedUU": {
+                        "t": 6,
+                        "v": 0.0
+                      }
+                    }
+                  },
+                  {
+                    "t": 10,
+                    "v": {
+                      "patternUU": {
+                        "t": 6,
+                        "v": 0.0
+                      },
+                      "processedUU": {
+                        "t": 6,
+                        "v": 0.0
+                      }
+                    }
+                  },
+                  {
+                    "t": 10,
+                    "v": {
+                      "patternUU": {
+                        "t": 6,
+                        "v": 0.0
+                      },
+                      "processedUU": {
+                        "t": 6,
+                        "v": 0.0
+                      }
+                    }
+                  },
+                  {
+                    "t": 10,
+                    "v": {
+                      "patternUU": {
+                        "t": 6,
+                        "v": 0.0
+                      },
+                      "processedUU": {
+                        "t": 6,
+                        "v": 0.0
+                      }
+                    }
+                  },
+                  {
+                    "t": 10,
+                    "v": {
+                      "patternUU": {
+                        "t": 6,
+                        "v": 0.0
+                      },
+                      "processedUU": {
+                        "t": 6,
+                        "v": 0.0
+                      }
+                    }
+                  },
+                  {
+                    "t": 10,
+                    "v": {
+                      "patternUU": {
+                        "t": 6,
+                        "v": 0.0
+                      },
+                      "processedUU": {
+                        "t": 6,
+                        "v": 0.0
+                      }
+                    }
+                  },
+                  {
+                    "t": 10,
+                    "v": {
+                      "patternUU": {
+                        "t": 6,
+                        "v": 0.0
+                      },
+                      "processedUU": {
+                        "t": 6,
+                        "v": 0.0
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "collected": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "compile": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    },
+                    "orientationIndex": {
+                      "t": 3,
+                      "v": 4
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          2,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          3,
+          1
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          3,
+          2
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          3,
+          3
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          0,
+          0
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          3,
+          0,
+          1
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          3,
+          0,
+          2
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          3,
+          0,
+          3
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          3,
+          0,
+          4
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          3,
+          1,
+          1
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          1,
+          2
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          1,
+          3
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          1,
+          4
+        ],
+        "state": 6,
+        "data": {
+          "type": "appliedenergistics2:block",
+          "version": 2,
+          "data": {
+            "t": 10,
+            "v": {
+              "def:2": {
+                "t": 10,
+                "v": {
+                  "Count": {
+                    "t": 1,
+                    "v": 1
+                  },
+                  "Damage": {
+                    "t": 2,
+                    "v": 6
+                  },
+                  "id": {
+                    "t": "item",
+                    "v": "loli_technologies:item.ItemMultiPart",
+                    "n": 2
+                  }
+                }
+              },
+              "def:6": {
+                "t": 10,
+                "v": {
+                  "Count": {
+                    "t": 1,
+                    "v": 1
+                  },
+                  "Damage": {
+                    "t": 2,
+                    "v": 60
+                  },
+                  "id": {
+                    "t": "item",
+                    "v": "loli_technologies:item.ItemMultiPart",
+                    "n": 2
+                  }
+                }
+              },
+              "extra:2": {
+                "t": 10,
+                "v": {
+                  "config": {
+                    "t": 10,
+                    "v": {}
+                  },
+                  "part": {
+                    "t": 10,
+                    "v": {
+                      "g": {
+                        "t": 4,
+                        "v": -2234572412665877868
+                      },
+                      "p": {
+                        "t": 3,
+                        "v": -1
+                      }
+                    }
+                  },
+                  "pointAt": {
+                    "t": 3,
+                    "v": 0
+                  },
+                  "priority": {
+                    "t": 3,
+                    "v": 0
+                  },
+                  "storage": {
+                    "t": 10,
+                    "v": {}
+                  },
+                  "upgrades": {
+                    "t": 10,
+                    "v": {}
+                  }
+                }
+              },
+              "extra:6": {
+                "t": 10,
+                "v": {
+                  "part": {
+                    "t": 10,
+                    "v": {
+                      "g": {
+                        "t": 4,
+                        "v": -2234572412665877868
+                      },
+                      "p": {
+                        "t": 3,
+                        "v": -1
+                      }
+                    }
+                  },
+                  "usedChannels": {
+                    "t": 1,
+                    "v": 1
+                  }
+                }
+              },
+              "hasRedstone": {
+                "t": 3,
+                "v": 2
+              },
+              "id": {
+                "t": 8,
+                "v": "BlockCableBus"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "NORTH": {
+                  "t": 10,
+                  "v": {
+                    "flags": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "UNKNOWN": {
+                  "t": 10,
+                  "v": {
+                    "connections": {
+                      "t": 3,
+                      "v": 64
+                    },
+                    "powered": {
+                      "t": 1,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          2,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          2,
+          2
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          2,
+          3
+        ],
+        "state": 3,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          3,
+          1
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          3,
+          2
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          3,
+          3,
+          3
+        ],
+        "state": 2,
+        "data": {
+          "type": "lolienergistics:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "lolienergistics:standard_part"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "connection": {
+                  "t": 10,
+                  "v": {
+                    "blocked": {
+                      "t": 1,
+                      "v": 1
+                    },
+                    "core:x": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:y": {
+                      "t": 3,
+                      "v": 2
+                    },
+                    "core:z": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                },
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "active": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "facing": {
+                      "t": 2,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          4,
+          0,
+          0
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          4,
+          0,
+          1
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          4,
+          0,
+          2
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          4,
+          0,
+          3
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          4,
+          0,
+          4
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          4,
+          1,
+          3
+        ],
+        "state": 6,
+        "data": {
+          "type": "appliedenergistics2:block",
+          "version": 2,
+          "data": {
+            "t": 10,
+            "v": {
+              "def:4": {
+                "t": 10,
+                "v": {
+                  "Count": {
+                    "t": 1,
+                    "v": 1
+                  },
+                  "Damage": {
+                    "t": 2,
+                    "v": 440
+                  },
+                  "id": {
+                    "t": "item",
+                    "v": "appliedenergistics2:item.ItemMultiPart",
+                    "n": 2
+                  }
+                }
+              },
+              "def:6": {
+                "t": 10,
+                "v": {
+                  "Count": {
+                    "t": 1,
+                    "v": 1
+                  },
+                  "Damage": {
+                    "t": 2,
+                    "v": 60
+                  },
+                  "id": {
+                    "t": "item",
+                    "v": "loli_technologies:item.ItemMultiPart",
+                    "n": 2
+                  }
+                }
+              },
+              "extra:4": {
+                "t": 10,
+                "v": {
+                  "BLOCK": {
+                    "t": 8,
+                    "v": "NO"
+                  },
+                  "INTERFACE_TERMINAL": {
+                    "t": 8,
+                    "v": "YES"
+                  },
+                  "config": {
+                    "t": 10,
+                    "v": {}
+                  },
+                  "customName": {
+                    "t": 8,
+                    "v": ""
+                  },
+                  "icon": {
+                    "t": 10,
+                    "v": {}
+                  },
+                  "part": {
+                    "t": 10,
+                    "v": {
+                      "g": {
+                        "t": 4,
+                        "v": -1806532811409938505
+                      },
+                      "p": {
+                        "t": 3,
+                        "v": -1
+                      }
+                    }
+                  },
+                  "patterns": {
+                    "t": 10,
+                    "v": {}
+                  },
+                  "priority": {
+                    "t": 3,
+                    "v": 0
+                  },
+                  "storage": {
+                    "t": 10,
+                    "v": {}
+                  },
+                  "upgrades": {
+                    "t": 10,
+                    "v": {}
+                  },
+                  "virtualStorage": {
+                    "t": 10,
+                    "v": {}
+                  }
+                }
+              },
+              "extra:6": {
+                "t": 10,
+                "v": {
+                  "part": {
+                    "t": 10,
+                    "v": {
+                      "g": {
+                        "t": 4,
+                        "v": -1806532811409938505
+                      },
+                      "p": {
+                        "t": 3,
+                        "v": -1
+                      }
+                    }
+                  },
+                  "usedChannels": {
+                    "t": 1,
+                    "v": 1
+                  }
+                }
+              },
+              "hasRedstone": {
+                "t": 3,
+                "v": 2
+              },
+              "id": {
+                "t": 8,
+                "v": "BlockCableBus"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "UNKNOWN": {
+                  "t": 10,
+                  "v": {
+                    "connections": {
+                      "t": 3,
+                      "v": 64
+                    },
+                    "powered": {
+                      "t": 1,
+                      "v": 0
+                    }
+                  }
+                },
+                "WEST": {
+                  "t": 10,
+                  "v": {
+                    "flags": {
+                      "t": 3,
+                      "v": 2
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "entities": []
+  },
+  "view": {
+    "yaw": -33.29999999999981,
+    "pitch": 19.699999999999935,
+    "zoom": 1.0,
+    "fov": 90.0,
+    "target": [
+      2.5,
+      2.5,
+      2.5
+    ]
+  },
+  "lighting": {
+    "time": 6000,
+    "brightness": 1.0
+  },
+  "components": [
+    {
+      "id": "b3f24fd4-ab29-4831-87a9-b558af581330",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          3,
+          1,
+          4
+        ],
+        "face": 5,
+        "offset": [
+          0.6955,
+          0.6520380562487871,
+          0.3850344434208104
+        ]
+      },
+      "data": {
+        "textKey": "import"
+      }
+    },
+    {
+      "id": "deb04590-fa09-4b1e-a605-50c94462fadc",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          2,
+          1,
+          4
+        ],
+        "face": 5,
+        "offset": [
+          0.633,
+          0.5326910142567258,
+          0.4501110156835768
+        ]
+      },
+      "data": {
+        "textKey": "energy"
+      }
+    },
+    {
+      "id": "6a172d21-b979-47b9-ac07-c4d1da93787c",
+      "type": "luminous:tooltip",
+      "version": 1,
+      "anchor": {
+        "kind": "block",
+        "pos": [
+          4,
+          1,
+          3
+        ],
+        "face": 3,
+        "offset": [
+          0.56722021198002,
+          0.5708307747805987,
+          0.6955
+        ]
+      },
+      "data": {
+        "textKey": "export"
+      }
+    }
+  ]
+}
