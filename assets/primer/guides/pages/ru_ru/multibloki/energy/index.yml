@@ -1,2 +1,20 @@
 title: "LoliEnergistics"
-pages: [par, oil-rig, plav, gelio]
+pages:
+  [
+    steal,
+    zakal,
+    par,
+    oil-rig,
+    plav,
+    gelio,
+    gemo,
+    dril,
+    replikartor,
+    energon_preob,
+    entropi,
+    freezer,
+    discilit,
+    energon_sintez,
+    cocs,
+    smesitel,
+  ]
