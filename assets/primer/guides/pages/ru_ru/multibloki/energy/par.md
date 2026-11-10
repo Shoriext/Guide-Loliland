@@ -24,14 +24,16 @@ icon:
 </text>
 :::
 
-Промышленный паровой котёл строится при помощи <item id="loli_utility:structure_builder" />.
-
 Ресурсы нужные для постройки:
 
 - <item id="lolienergistics:industrial_steam_boiler" count="1"/>
 - <item id="lolienergistics:niobium_tank" count="2"/>
 - <item id="lolienergistics:quantum_glass" count="9"/>
 - <item id="lolienergistics:niobium_plating" count="33"/>
+
+:::callout{type="tip"}
+Данную структуру можно построить при помощи жезла <item id="loli_utility:structure_builder" />.
+:::
 
 # Улучшения {#upgrade_boiler}
 

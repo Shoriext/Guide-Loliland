@@ -43,11 +43,13 @@ icon:
 </text>
 :::
 
-Плавильный комплекс строится при помощи <item id="loli_utility:structure_builder" />.
-
 Ресурсы нужные для постройки:
 
 - <item id="lolienergistics:thermonuclear_smelting_complex" count="1"/>
 - <item id="lolienergistics:resistant_tank" count="4"/>
 - <item id="lolienergistics:heat_resistant_glass" count="80"/>
 - <item id="lolienergistics:tungsten_plating" count="50"/>
+
+:::callout{type="tip"}
+Данную структуру можно построить при помощи жезла <item id="loli_utility:structure_builder" />.
+:::
