@@ -1,6 +1,6 @@
 ---
 id: "primer:page-1"
-title: "Первые действия"
+title: "Буровая установка"
 feedback: true
 icon:
   item: "lolienergistics:drill_bit"
