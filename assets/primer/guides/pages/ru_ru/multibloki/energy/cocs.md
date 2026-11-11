@@ -18,5 +18,5 @@ icon:
 - <item id="lolienergistics:coke_oven_brick" count="27" />
 
 :::callout{type="tip"}
-Данную структуру можно построить с помощью помощью строителя мультиструктур.
+Данную структуру можно построить с помощью помощью item id="<loli_utility:structure_builder>"строителя мультиструктур.
 :::
