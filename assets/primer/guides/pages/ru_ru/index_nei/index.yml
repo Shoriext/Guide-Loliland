@@ -1,0 +1,5 @@
+title: "Index"
+icon:
+  item: "minecraft:crafting_table"
+  meta: 0
+subsections: [index_base]
