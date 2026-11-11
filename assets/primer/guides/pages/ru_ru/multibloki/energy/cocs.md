@@ -13,6 +13,9 @@ icon:
 
 # Постройка {#building-cocs}
 
+:::scheme{src="pages/ru_ru/primer/subsection_1/scenes/cocs_pech.scene.json" caption="Пример коксовой печи"}
+:::
+
 Ресурсы, нужные для постройки:
 
 - <item id="lolienergistics:coke_oven_brick" count="27" />
