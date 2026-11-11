@@ -17,5 +17,6 @@ icon:
 Тут может быть любой источник энергии :::
 Ресурсы нужные для постройки:
 - <item id="lolienergistics:efficient_injector_upgrade" />
+meta: 27
 
 :::callout{type="tip"} Данную структуру можно построить при помощи жезла . :::
