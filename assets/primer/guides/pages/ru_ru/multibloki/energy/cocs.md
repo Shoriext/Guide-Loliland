@@ -16,7 +16,6 @@ icon:
 
 Тут может быть любой источник энергии :::
 Ресурсы нужные для постройки:
-- <item id="lolienergistics:efficient_injector_upgrade" />
-meta: 27
+- <item id="lolienergistics:coke_oven_brick" count="27" />
 
-:::callout{type="tip"} Данную структуру можно построить при помощи жезла . :::
+:::callout{type="tip"} Данную структуру можно построить при помощи строителя мультиструктур . :::
