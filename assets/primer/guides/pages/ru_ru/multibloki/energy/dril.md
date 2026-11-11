@@ -1,10 +1,10 @@
 ---
-id: "primer:page-1"
+id: "primer:dril-1"
 title: "Буровая установка"
 feedback: true
 icon:
   item: "lolienergistics:drill_bit"
-  meta: 1 
+  meta: 1
 ---
 
 Если вы дошли до этапа, когда нужны руды в больших количествах, данная статья точно для вас.
@@ -24,12 +24,12 @@ icon:
 Установка хранит свои характеристики в буровой коронке. Поэтому при переносе забирайте её вместе с коронкой.
 
 :::callout{type="warning"}
-- Главное при переносе не потерять главный блок <item id="lolienergistics:drill_bit" />. Без неё уровень и улучшения придётся прокачивать и ставить заново.
-- Ресурсы, потраченные на прокачку и улучшения, вернуть нельзя.
+Главное при переносе не потерять главный блок <item id="lolienergistics:drill_bit" />. Без неё уровень и улучшения придётся прокачивать и ставить заново. Ресурсы, потраченные на прокачку и улучшения, вернуть нельзя.
 :::
+
 # Установка 2 уровня {#scene-level-2 icon-item="lolienergistics:drill_bit"}
 
-:::scheme{src="pages/ru_ru/primer/subsection_1/scenes/drill_2.scene.json" caption="Буровая установка 2 уровня"}
+:::scheme{src="pages/ru_ru/multibloki/energy/scenes/drill_2.scene.json" caption="Буровая установка 2 уровня"}
 <text key="energy" header="Энергия">
 Сюда подключается энергия.
 </text>
@@ -39,9 +39,10 @@ icon:
 :::
 
 # Истощение жилы {#vein-depletion icon-item="lolienergistics:oreglow_coating"}
+
 Убрать истощение жилы можно двумя способами.
 
-1. [Перенесите установку](guide:primer:page-1#moving). Менять место необязательно: достаточно забрать её и поставить обратно. Поставить обратно можно с помощью <item id="loli_utility:structure_builder" />.
+1. [Перенесите установку](guide:primer:dril-1#moving). Менять место необязательно: достаточно забрать её и поставить обратно. Поставить обратно можно с помощью <item id="loli_utility:structure_builder" />.
 2. Положите в установку улучшение <item id="lolienergistics:oreglow_coating">напыление из рудноцвета</item>. Подавайте ману в установку через <item id="Botania:spreader">распространитель маны</item> и выше или через <item id="lolimagically:asgard_upgrade">улучшение Асгард</item>.
 
 # Уровни коронок {#levels icon-item="lolienergistics:drill_bit_upgrade_2"}
