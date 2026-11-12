@@ -23,3 +23,5 @@ icon:
 :::callout{type="tip"}
 Данную структуру можно построить с помощью <item id="loli_utility:structure_builder">строителя мультиструктур</item>.
 :::
+# Улучшения {#upgrade_steal}
+Данная структура не поддерживает улучшения
