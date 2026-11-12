@@ -1,5 +1,5 @@
 ---
-id: "primer:page-1"
+id: "primer:cocs-1"
 title: "Коксовая печь"
 feedback: true
 icon:
