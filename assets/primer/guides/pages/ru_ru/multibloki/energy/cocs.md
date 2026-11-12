@@ -13,7 +13,7 @@ icon:
 
 # Постройка {#building-cocs}
 
-:::scheme{src="pages/ru_ru/primer/subsection_1/scenes/cocs_pech.scene.json" caption="Пример коксовой печи"}
+:::scheme{src="pages/ru_ru/multibloki/energy/scenes/cocs_pech.scene.json" caption="Буровая установка 2 уровня"}
 :::
 
 Ресурсы, нужные для постройки:
