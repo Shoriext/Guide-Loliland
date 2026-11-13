@@ -10,10 +10,10 @@ icon:
 
 # Основная информация {#info-cocs}
 
-Коксовая печь это мультиструктура, которая позволяет получать <item id="lolienergistics:coke_coal" /> и производит <item id="lolienergistics:fluid.creosote" />, как побочный продукт.
+**Коксовая печь** – это мультиструктура, которая позволяет получать <item id="lolienergistics:coke_coal" /> и производит <item id="lolienergistics:fluid.creosote" />, как побочный продукт.
 
 :::callout{type="tip"}
-Данная мультиструктура не поддерживает улучшения.
+Данная мультиструктура **не поддерживает** улучшения.
 :::
 
 # Постройка {#building-cocs}
