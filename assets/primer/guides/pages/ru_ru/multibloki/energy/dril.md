@@ -15,13 +15,13 @@ icon:
 
 Буровая установка имеет 5 уровней и улучшается внутри своего интерфейса.
 
-# Сборка {#build icon-item="lolienergistics:drill_bit"}
+# Сборка {#build }
 
 1. Поставьте <item id="lolienergistics:drill" /> .
 2. Подключите энергию проводами.
 3. Забирайте руду со стороны выходного шлюза.
 
-# Установка 2 уровня {#scene-level-2 icon-item="lolienergistics:drill_bit"}
+# Установка 2 уровня {#scene-level-2 }
 
 :::scheme{src="pages/ru_ru/multibloki/energy/scenes/drill_2.scene.json" caption="Буровая установка 2 уровня"}
 <text key="energy" header="Энергия">
@@ -36,7 +36,7 @@ icon:
 Данную структуру можно построить при помощи жезла <item id="loli_utility:structure_builder" />.
 :::
 
-# Истощение жилы {#vein-depletion icon-item="lolienergistics:oreglow_coating"}
+# Истощение жилы {#vein-depletion }
 
 Убрать истощение жилы можно двумя способами.
 
@@ -47,7 +47,7 @@ icon:
 При переносе все улучшения сохраняются в буровой коронке, так что не теряйте её.
 :::
 
-# Улучшения установки {#extra-upgrades icon-item="lolienergistics:oreglow_coating"}
+# Улучшения {#extra-upgrades }
 
 **Буровая устоновка** поддерживает несколько улучшений:
 :::item-card{item="lolienergistics:oreglow_coating"}
