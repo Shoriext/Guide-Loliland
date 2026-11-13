@@ -6,4 +6,4 @@ icon:
   item: "minecraft:crafting_table"
 ---
 
-Тесовая странница
+

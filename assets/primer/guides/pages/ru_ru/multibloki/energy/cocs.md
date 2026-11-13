@@ -5,11 +5,23 @@ feedback: true
 icon:
   item: "lolienergistics:coke_oven_brick"
 ---
+Если вы дошли до этапа, когда нужен <item id="lolienergistics:coke_coal">коксовый уголь</item>, данная статья точно для вас.
 
-Мощь солнца в моих руках.
+# Основная информация {#info-cocs}
 
-# Основная информация {#info_cocs}
+Коксовая печь это мультиблочная структура, позволяющая получать <item id="lolienergistics:coke_coal">коксовый уголь</item> и <item id="lolienergistics:fluid.creosote">креозот</item>.
 
-# Постройка {#building_cocs}
+# Постройка {#building-cocs}
 
+:::scheme{src="pages/ru_ru/multibloki/energy/scenes/cocs_pech.scene.json" caption="Буровая установка 2 уровня"}
+:::
+
+Ресурсы, нужные для постройки:
+
+- <item id="lolienergistics:coke_oven_brick" count="27" />
+
+:::callout{type="tip"}
+Данную структуру можно построить с помощью <item id="loli_utility:structure_builder">строителя мультиструктур</item>.
+:::
 # Улучшения {#upgrade_cocs}
+Данная структура не поддерживает улучшения
