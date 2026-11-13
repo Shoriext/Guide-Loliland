@@ -19,6 +19,15 @@ icon:
 
 # Постройка {#building_boiler}
 
+:::scheme{src="pages/ru_ru/multibloki/energy/scenes/gelios1.scene.json" caption="Пример мультиблочной структуры"}
+<text key="energy">
+Тут может быть любой источник EU энергии
+</text>
+<text key="Inter">
+Тут может быть любой МЭ интерфейс
+</text>
+:::
+
 Необходимые ресурсы:
 
 - <item id="lolienergistics:heliospheric_charging_center"/>
