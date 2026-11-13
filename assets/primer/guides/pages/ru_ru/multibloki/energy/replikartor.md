@@ -46,7 +46,7 @@ icon:
 **Легендарный репликатор** поддерживает 3 вида улучшений:
 
 :::item-card{item="lolienergistics:upgrade_quantum_generator"}
-Обеспечивает механизм EU.
+Обеспечивает механизм EU энергией.
 :::
 
 :::item-card{item="lolienergistics:upgrade_singular_buck"}
