@@ -18,7 +18,7 @@ icon:
 За один цикл работы закалочная ванна перерабатывает все ресурсы из своего буфера. При использовании жидкости третьего уровня, ванна работает мгновенно.
 :::
 
-## Постройка {#building_zakal}
+# Постройка {#building_zakal}
 
 :::scheme{src="pages/ru_ru/multibloki/energy/scenes/zakal-1.scene.json" caption="Пример мультиблочной структуры"}
 <text key="energy">
