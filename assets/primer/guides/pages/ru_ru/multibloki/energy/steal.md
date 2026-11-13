@@ -6,23 +6,24 @@ icon:
   item: "lolienergistics:industrial_blast_furnace"
 ---
 
+В данной статье речь пойдёт о том, как получать <item id="lolienergistics:hot_iron_ingot" />.
+
 # Основная информация {#osnovnaya-informaciya}
 
-**Доменная печь** – это мультиблочная структура, с помощью которой можно создавать <item id="lolienergistics:hot_iron_ingot" /> и <item id="lolienergistics:hot_iron_block"/>, используя <item id="uniresources:ingotIron" /> и <item id="uniresources:blockIron" /> соответственно.
+**Доменная печь** – это базовая мультиструктура, с помощью которой можно создавать <item id="lolienergistics:hot_iron_ingot" /> и <item id="lolienergistics:hot_iron_block"/>, используя <item id="uniresources:ingotIron" /> и <item id="uniresources:blockIron" /> соответственно.
 
-На сервере доменная печь представлена двумя мультиблочными структурами:
+На сервере доменная печь представлена в двух вариантах:
 
-  - **Обычная доменная печь**
-  - **Промышленная доменная печь**
-
-
+- **Обычная доменная печь**
+- **Промышленная доменная печь**
 
 # Доменная печь {#info_steal_1}
 
 Для работы данная структура требует топливо. Им может являться:
-  - <item id="lolienergistics:coke_coal"/>
-  - <item id="lolienergistics:coal_coke_block"/>
-  - <item id="uniresources:charcoal" />.
+
+- <item id="lolienergistics:coke_coal"/>
+- <item id="lolienergistics:coal_coke_block"/>
+- <item id="uniresources:charcoal" />
 
 :::callout{type="tip"}
 За один цикл работы доменная печь производит по 1 виду продукции и не поддерживает улучшения.
@@ -40,17 +41,16 @@ icon:
 :::
 
 Необходимые ресурсы:
-  - <item id="lolienergistics:blast_furnace_brick" count="27"/>
+
+- <item id="lolienergistics:blast_furnace_brick" count="27"/>
 
 :::callout{type="tip"}
 Данную структуру можно построить при помощи жезла <item id="loli_utility:structure_builder" />.
 :::
 
-
-
 # Промышленная доменная печь {#info_steal_2}
 
-Промышленная печь, в отличие от обычной, в качестве топлива требует два вида жидкости – нагревающую и охлаждающую, а также EU. Доступные жидкости и их уровни можно посмотреть, наведя курсор на баки в интерфейсе структуры.
+**Промышленная доменная печь**, в отличие от обычной, в качестве топлива требует два вида жидкости – нагревающую и охлаждающую, а также EU. Доступные жидкости и их уровни можно посмотреть, наведя курсор на баки в интерфейсе структуры.
 
 :::callout{type="warning"}
 Если уровень охлаждающей жидкости ниже уровня нагревающей, то печь не будет работать.
@@ -72,6 +72,7 @@ icon:
 :::
 
 Необходимые ресурсы:
+
 - <item id="lolienergistics:industrial_blast_furnace" count="1"/>
 - <item id="lolienergistics:blast_furnace_brick" count="29"/>
 - <item id="lolienergistics:niobium_plating" count="12"/>
@@ -85,5 +86,5 @@ icon:
 ## Улучшения {#upgrade_steal_2}
 
 :::callout{type="tip"}
-Промышленная доменная печь поддерживает все индустриальные улучшения, но не нуждается в них. **Скорость ее работы зависит только от уровня жидкостей**. 
+Промышленная доменная печь поддерживает все индустриальные улучшения, но не нуждается в них. **Скорость ее работы зависит только от уровня жидкостей**.
 :::
