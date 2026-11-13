@@ -30,11 +30,11 @@ icon:
 
 :::scheme{src="pages/ru_ru/multibloki/energy/scenes/plav.scene.json" caption="Пример мультиблочной структуры"}
 <text key="inv">
-Тут может быть любой мэ интерфейс
+Тут может быть любой МЭ интерфейс
 </text>
 
 <text key="eng">
-Тут может быть любой источник энергии
+Тут может быть любой источник EU энергии
 </text>
 :::
 
