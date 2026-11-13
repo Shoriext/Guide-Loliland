@@ -1,34 +1,29 @@
 ---
 id: "primer:plav-1"
-title: "Плавильный комплекс"
+title: "Термоядерный плавильный комплекс"
 feedback: true
 icon:
   item: "lolienergistics:thermonuclear_smelting_complex"
 ---
 
-Плавильный комплекс открывает вам возможность расплавить даже самые твёрдые материалы.
+В данной статье речь пойдёт о ток, как использовать Термоядерный плавильный комплекс.
 
-# Основная информация {#info_boiler}
+# Основная информация {#osnovnaya-informaciya}
 
-Данная структура позволяет плавить различные материалы. Температура плавления зависит от вставленной карманной звезды. Всего существует четыре вида таких звёзд, и у каждой своя температура.
+**Термоядерный плавильный комплекс** – это мультиструктура, которая позволяет мощь звёзд, для плавления некоторых материалов.
+
+Всего существует 4 вида звёзд с различной темереатурой поверхности.
 
 | Звезда                                             | Температурный диапазон |
 | :------------------------------------------------- | :--------------------- |
 | <item id="lolienergistics:astrolion_micro_star" /> | 1120-4000              |
-| <item id="lolienergistics:sun_micro_star" />       | 6000-12000             |
-| <item id="lolienergistics:sirius_micro_star" />    | 20000-30000            |
-| <item id="lolienergistics:zodius_micro_star" />    | 33400-50000            |
+| <item id="lolienergistics:sun_micro_star" />       | 6000-12 000            |
+| <item id="lolienergistics:sirius_micro_star" />    | 20 000-30 000          |
+| <item id="lolienergistics:zodius_micro_star" />    | 33 400-50 000          |
 
-При работе звезда начинает остывать и разряжаться. Если звезда остынет или сядет, она перестанет плавить предметы. Чтобы она могла работать автономно, предусмотрено два улучшения.
-:::item-card{item="lolienergistics:portable_charging_module"}
-Позволяет звезде заряжаться внутри плавильного комплекса.
-:::
-:::item-card{item="lolienergistics:thermal_insulator1"}
-Позволяет звезде терять температуру медленнее. Существует три уровня улучшения, при этом полную потерю температуры устраняет только третий уровень.
-:::
-Также поддерживает <item id="lolienergistics:upgrade_singular_buck" />
-:::item-card{item="lolienergistics:upgrade_singular_buck"}
-Данное улучшение позволяет расширить внутренние резервуары. Всего существует три уровня улучшения.
+При работе звезда начинает терять температуру и энергию.
+:::callout{type="warning"}
+Если звезда потеряет энергию и остныет слишком сильно, она погаснет.
 :::
 
 # Постройка {#building_boiler}
@@ -43,7 +38,7 @@ icon:
 </text>
 :::
 
-Ресурсы нужные для постройки:
+Необходимые ресурсы:
 
 - <item id="lolienergistics:thermonuclear_smelting_complex" count="1"/>
 - <item id="lolienergistics:resistant_tank" count="4"/>
@@ -52,4 +47,20 @@ icon:
 
 :::callout{type="tip"}
 Данную структуру можно построить при помощи жезла <item id="loli_utility:structure_builder" />.
+:::
+
+# Улучшения {#uluchshenie}
+
+**Термоядерный плавильный комплекс** поддержживает несколько улучшений:
+
+:::item-card{item="lolienergistics:portable_charging_module"}
+Убирает потери энергии звезды.
+:::
+
+:::item-card{item="lolienergistics:thermal_insulator1"}
+Уменьшает скорость потери температуры звезды. Улучшение третьего уровня устраняет потери температуры.
+:::
+
+:::item-card{item="lolienergistics:upgrade_singular_buck"}
+Увеличивает объём внутреннего резервуара.
 :::

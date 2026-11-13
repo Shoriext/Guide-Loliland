@@ -50,7 +50,7 @@ icon:
 :::
 
 :::item-card{item="lolienergistics:upgrade_singular_buck"}
-Позволяет расширить внутренний резервуар.
+Увеличивает объём внутреннего резервуара.
 :::
 
 :::item-card{item="lolienergistics:upgrade_module"}
