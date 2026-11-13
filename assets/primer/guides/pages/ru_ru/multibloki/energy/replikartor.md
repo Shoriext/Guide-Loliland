@@ -5,33 +5,54 @@ feedback: true
 icon:
   item: "lolienergistics:legendary_replicator_core"
 ---
-Является улучшенной версией механизма <item id="lolienergistics:BlockQuantumReplicator" /> и обладает рядом отличительных особенностей, из-за чего более эффективен.
-:::callout{type="tip"}
-Данную структуру можно построить при помощи жезла <item id="loli_utility:structure_builder" />
-:::
+
+В данной статье речь пойдёт о Легендарном репликаторе.
 
 # Основная информация {#info_replikartor}
-**Легендарный репликатор** - мултиблочная структура, которая позволяет дублировать до 9 различных предметов за раз, а <item id="IC2:fluidUuMatter" /> тратится в 2 раза меньше.
+
+**Легендарный репликатор** – это мультиструктура, которя является промышленной версией механизма <item id="lolienergistics:BlockQuantumReplicator" /> и обладает парой отличительных особенностей:
+
+- Генерирует до 9 стаков указыных предметов за раз
+- <item id="IC2:fluidUuMatter" /> тратится в два раза медленне
 
 # Постройка {#building_replikartor}
+
 :::scheme{src="pages/ru_ru/multibloki/energy/scenes/replicator.scene.json" caption="Легендарный репликатор"}
 <text key="import">
-Подавать материю можно в любое место
+Тут может быть подача материи
 </text>
 
 <text key="energy">
-Подключать энергию можно в любое место
+Тут может быть любой источник EU энергии
 </text>
 
 <text key="export">
-Забирать предметы можно из любого места
+Тут может быть любой МЭ интерфейс
 </text>
 :::
+
+Необходимые ресурсы:
+
+- <item id="lolienergistics:legendary_replicator_core" count="1" />
+- <item id="lolienergistics:quantum_glass" count="8" />
+- <item id="lolienergistics:niobium_plating" count="18" />
+
 :::callout{type="tip"}
-В случае разрушения одного из блоков структуры, нужно поставить его на место и использовать <item id="lolienergistics:quantum_assembly_tool" />
+Данную структуру можно построить при помощи жезла <item id="loli_utility:structure_builder" />.
 :::
+
 # Улучшения {#upgrade_replikartor}
 
-- <item id="lolienergistics:upgrade_quantum_generator" />
-- <item id="lolienergistics:upgrade_singular_buck"/>
-- <item id="lolienergistics:upgrade_module" meta="1" />
+**Легендарный репликатор** поддерживает 3 вида улучшений:
+
+:::item-card{item="lolienergistics:upgrade_quantum_generator"}
+Обеспечивает механизм EU.
+:::
+
+:::item-card{item="lolienergistics:upgrade_singular_buck"}
+Позволяет расширить внутренний резервуар.
+:::
+
+:::item-card{item="lolienergistics:upgrade_module"}
+Ускоряет работу механизма. Эффект от нескольких улучшений складывается.
+:::
