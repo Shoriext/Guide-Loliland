@@ -40,7 +40,7 @@ icon:
 </text>
 :::
 
-Необходимые ресурсы:  
+Необходимые ресурсы:
 
 - <item id="lolienergistics:blast_furnace_brick" count="27"/>
 
