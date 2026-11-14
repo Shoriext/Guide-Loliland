@@ -1,5 +1,5 @@
 title: "Индустриализация"
 icon:
-  item: "minecraft:book"
+  item: "IC2:itemPartCircuitAdv"
   meta: 0
-subsections: [industrial_info, industrial_base]
+subsections: [industrial_info, oil_1, steel_2, energy_generation_1, distil_water_3, steam_4, coolant_6, fluid_matter_7, melting_8, mixing_9, energon_10, laser_table_11]
