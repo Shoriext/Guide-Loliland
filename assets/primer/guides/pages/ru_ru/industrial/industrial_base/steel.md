@@ -36,7 +36,7 @@ icon:
 
 ## Постройка {#building-steel-cocs}
 
-:::scheme{src="pages/ru_ru/multibloki/energy/scenes/cocs_pech.scene.json" caption="Коксовая печь"}
+:::scheme{src="pages/ru_ru/industrial/industrial_base/scenes/cocs_pech.scene.json" caption="Коксовая печь"}
 <text key="import" header="Поставка">
 Поставлять топливо можно с любой стороны
 </text>
@@ -75,7 +75,7 @@ icon:
 За один цикл работы доменная печь производит по 1 виду продукции и не поддерживает улучшения.
 :::
 
-:::scheme{src="pages/ru_ru/multibloki/energy/scenes/steal-1.scene.json" caption="Обычная доменная печь"}
+:::scheme{src="pages/ru_ru/industrial/industrial_base/scenes/steal-1.scene.json" caption="Обычная доменная печь"}
 <text key="import" header="Поставка">
 Поставлять железо можно с любой стороны
 </text>
@@ -101,7 +101,7 @@ icon:
 За один цикл работы промышленная доменная печь перерабатывает все ресурсы из своего буфера. При использовании комбинации жидкостей третьего уровня, печь работает мгновенно.
 :::
 
-:::scheme{src="pages/ru_ru/multibloki/energy/scenes/steal-2.scene.json" caption="Промышленная доменная печь"}
+:::scheme{src="pages/ru_ru/industrial/industrial_base/scenes/steal-2.scene.json" caption="Промышленная доменная печь"}
 <text key="energy">
 Тут может быть любой источник EU энергии
 </text>
@@ -134,7 +134,7 @@ icon:
 
 ## Постройка {#building-steel-zakal}
 
-:::scheme{src="pages/ru_ru/multibloki/energy/scenes/zakal-1.scene.json" caption="Закалочная ванна"}
+:::scheme{src="pages/ru_ru/industrial/industrial_base/scenes/zakal-1.scene.json" caption="Закалочная ванна"}
 <text key="energy">
 Тут может быть любой источник EU энергии
 </text>
