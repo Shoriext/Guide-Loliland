@@ -1,5 +1,5 @@
-title: "Глобальная автоматизация"
+title: "Автоматизация"
 icon:
-  item: "minecraft:book"
+  item: "appliedenergistics2:tile.BlockController"
   meta: 0
 subsections: [subsection_1]

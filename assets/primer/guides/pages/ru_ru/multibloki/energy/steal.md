@@ -32,11 +32,11 @@ icon:
 # Постройка {#building_steal_1}
 
 :::scheme{src="pages/ru_ru/multibloki/energy/scenes/steal-1.scene.json" caption="Пример мультиблочной структуры"}
-<text key="energy">
-Шина импорта
+<text key="import" header="Поставка">
+Поставлять железо можно с любой стороны
 </text>
-<text key="Inter">
-Шина экспорта
+<text key="export" header="Выгрузка">
+Забирать результат можно с любой стороны
 </text>
 :::
 

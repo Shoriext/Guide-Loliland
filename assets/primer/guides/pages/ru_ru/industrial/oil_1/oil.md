@@ -3,7 +3,7 @@ id: "primer:ind-base-oil-1"
 title: "Нефть"
 feedback: true
 icon:
-  item: "minecraft:book"
+  item: "lolienergistics:crude_oil_bucket"
 ---
 
 Что такое нефть? В этой статье вы узнаете всё про неё.
