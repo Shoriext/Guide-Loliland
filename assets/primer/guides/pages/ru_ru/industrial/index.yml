@@ -1,0 +1,5 @@
+title: "Индустриализация"
+icon:
+  item: "minecraft:book"
+  meta: 0
+subsections: [industrial_info, industrial_base]

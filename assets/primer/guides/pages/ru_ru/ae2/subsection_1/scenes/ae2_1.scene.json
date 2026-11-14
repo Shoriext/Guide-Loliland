@@ -1,0 +1,508 @@
+{
+  "format": "luminous:scene",
+  "version": 1,
+  "structure": {
+    "size": [
+      3,
+      4,
+      4
+    ],
+    "palette": [
+      {
+        "block": "lolidecorative:colored_black",
+        "meta": 0
+      },
+      {
+        "block": "lolidecorative:colored_white",
+        "meta": 0
+      },
+      {
+        "block": "IC2:blockCable",
+        "meta": 9
+      },
+      {
+        "block": "appliedenergistics2:tile.BlockController",
+        "meta": 1
+      },
+      {
+        "block": "appliedenergistics2:tile.BlockDrive",
+        "meta": 0
+      },
+      {
+        "block": "appliedenergistics2:tile.BlockCableBus",
+        "meta": 0
+      }
+    ],
+    "blocks": [
+      {
+        "pos": [
+          0,
+          0,
+          0
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          0,
+          0,
+          1
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          0,
+          0,
+          2
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          0,
+          0,
+          3
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          0,
+          1,
+          1
+        ],
+        "state": 2,
+        "data": {
+          "type": "IC2:block",
+          "version": 1,
+          "data": {
+            "t": 10,
+            "v": {
+              "active": {
+                "t": 1,
+                "v": 0
+              },
+              "cableType": {
+                "t": 2,
+                "v": 9
+              },
+              "color": {
+                "t": 2,
+                "v": 0
+              },
+              "facing": {
+                "t": 2,
+                "v": 2
+              },
+              "foamColor": {
+                "t": 1,
+                "v": 0
+              },
+              "foamed": {
+                "t": 1,
+                "v": 0
+              },
+              "id": {
+                "t": 8,
+                "v": "Cable"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "fields": {
+                  "t": 10,
+                  "v": {
+                    "cableType": {
+                      "t": 2,
+                      "v": 9
+                    },
+                    "color": {
+                      "t": 2,
+                      "v": 0
+                    },
+                    "connectivity": {
+                      "t": 1,
+                      "v": 2
+                    },
+                    "foamColor": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "foamed": {
+                      "t": 1,
+                      "v": 0
+                    },
+                    "renderSide": {
+                      "t": 1,
+                      "v": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          0,
+          0
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          1,
+          0,
+          1
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          1,
+          0,
+          2
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          1,
+          0,
+          3
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          1,
+          1,
+          1
+        ],
+        "state": 3,
+        "data": {
+          "type": "appliedenergistics2:block",
+          "version": 2,
+          "data": {
+            "t": 10,
+            "v": {
+              "id": {
+                "t": 8,
+                "v": "BlockController"
+              },
+              "internalCurrentPower": {
+                "t": 6,
+                "v": 8000.0
+              },
+              "inv": {
+                "t": 10,
+                "v": {}
+              },
+              "orientation_forward": {
+                "t": 8,
+                "v": "EAST"
+              },
+              "orientation_up": {
+                "t": 8,
+                "v": "UP"
+              },
+              "proxy": {
+                "t": 10,
+                "v": {
+                  "g": {
+                    "t": 4,
+                    "v": -2318338765925257627
+                  },
+                  "p": {
+                    "t": 3,
+                    "v": 872708617
+                  }
+                }
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {}
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          1,
+          2
+        ],
+        "state": 4,
+        "data": {
+          "type": "appliedenergistics2:block",
+          "version": 2,
+          "data": {
+            "t": 10,
+            "v": {
+              "id": {
+                "t": 8,
+                "v": "BlockDrive"
+              },
+              "inv": {
+                "t": 10,
+                "v": {}
+              },
+              "orientation_forward": {
+                "t": 8,
+                "v": "EAST"
+              },
+              "orientation_up": {
+                "t": 8,
+                "v": "UP"
+              },
+              "priority": {
+                "t": 3,
+                "v": 0
+              },
+              "proxy": {
+                "t": 10,
+                "v": {
+                  "g": {
+                    "t": 4,
+                    "v": -2318338765925257627
+                  },
+                  "p": {
+                    "t": 3,
+                    "v": 872708617
+                  }
+                }
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "blinkAge": {
+                  "t": 4,
+                  "v": 411348
+                },
+                "state": {
+                  "t": 3,
+                  "v": -2147483648
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          1,
+          2,
+          2
+        ],
+        "state": 5,
+        "data": {
+          "type": "appliedenergistics2:block",
+          "version": 2,
+          "data": {
+            "t": 10,
+            "v": {
+              "def:5": {
+                "t": 10,
+                "v": {
+                  "Count": {
+                    "t": 1,
+                    "v": 1
+                  },
+                  "Damage": {
+                    "t": 2,
+                    "v": 380
+                  },
+                  "id": {
+                    "t": "item",
+                    "v": "appliedenergistics2:item.ItemMultiPart",
+                    "n": 2
+                  }
+                }
+              },
+              "def:6": {
+                "t": 10,
+                "v": {
+                  "Count": {
+                    "t": 1,
+                    "v": 1
+                  },
+                  "Damage": {
+                    "t": 2,
+                    "v": 0
+                  },
+                  "id": {
+                    "t": "item",
+                    "v": "appliedenergistics2:item.ItemMultiPart",
+                    "n": 2
+                  }
+                }
+              },
+              "extra:5": {
+                "t": 10,
+                "v": {
+                  "CONTENT_TYPE": {
+                    "t": 8,
+                    "v": "ALL"
+                  },
+                  "NOTIFY_ON_CRAFT_COMPLETE": {
+                    "t": 8,
+                    "v": "NO"
+                  },
+                  "SORT_BY": {
+                    "t": 8,
+                    "v": "NAME"
+                  },
+                  "SORT_DIRECTION": {
+                    "t": 8,
+                    "v": "ASCENDING"
+                  },
+                  "VIEW_MODE": {
+                    "t": 8,
+                    "v": "ALL"
+                  },
+                  "color": {
+                    "t": 1,
+                    "v": 0
+                  },
+                  "opacity": {
+                    "t": 5,
+                    "v": 255.0
+                  },
+                  "part": {
+                    "t": 10,
+                    "v": {
+                      "g": {
+                        "t": 4,
+                        "v": -2318338765925257627
+                      },
+                      "p": {
+                        "t": 3,
+                        "v": 872708617
+                      }
+                    }
+                  },
+                  "spin": {
+                    "t": 1,
+                    "v": 0
+                  }
+                }
+              },
+              "extra:6": {
+                "t": 10,
+                "v": {
+                  "part": {
+                    "t": 10,
+                    "v": {
+                      "g": {
+                        "t": 4,
+                        "v": -2318338765925257627
+                      },
+                      "p": {
+                        "t": 3,
+                        "v": 872708617
+                      }
+                    }
+                  },
+                  "usedChannels": {
+                    "t": 1,
+                    "v": 1
+                  }
+                }
+              },
+              "hasRedstone": {
+                "t": 3,
+                "v": 2
+              },
+              "id": {
+                "t": 8,
+                "v": "BlockCableBus"
+              }
+            },
+            "visual": {
+              "t": 10,
+              "v": {
+                "EAST": {
+                  "t": 10,
+                  "v": {
+                    "flags": {
+                      "t": 3,
+                      "v": 20
+                    }
+                  }
+                },
+                "UNKNOWN": {
+                  "t": 10,
+                  "v": {
+                    "connections": {
+                      "t": 3,
+                      "v": 65
+                    },
+                    "powered": {
+                      "t": 1,
+                      "v": 1
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "pos": [
+          2,
+          0,
+          0
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          2,
+          0,
+          1
+        ],
+        "state": 1
+      },
+      {
+        "pos": [
+          2,
+          0,
+          2
+        ],
+        "state": 0
+      },
+      {
+        "pos": [
+          2,
+          0,
+          3
+        ],
+        "state": 1
+      }
+    ],
+    "entities": []
+  },
+  "view": {
+    "yaw": -77.39999999999996,
+    "pitch": 43.75000000000001,
+    "zoom": 0.9090909090909091,
+    "fov": 70.0,
+    "target": [
+      1.5,
+      2.0,
+      2.0
+    ]
+  },
+  "lighting": {
+    "time": 6000,
+    "brightness": 1.0
+  },
+  "components": []
+}

@@ -25,10 +25,17 @@ icon:
 
 :::scheme{src="pages/ru_ru/multibloki/energy/scenes/drill_2.scene.json" caption="Буровая установка 2 уровня"}
 <text key="energy" header="Энергия">
+<<<<<<< HEAD
 Сюда подключается энергия
 </text>
 <text key="interface" header="Выгрузка">
 Сюда установка выгружает добытые руды
+=======
+Сюда подключается энергия.
+</text>
+<text key="exporting" header="Выгрузка">
+Отсюда установка выгружает добытые руды.
+>>>>>>> b54b6d701d7241b8da1b35cf5b9f678487e82b65
 </text>
 :::
 
