@@ -32,6 +32,17 @@ icon:
 # Постройка {#building_steal_1}
 
 :::scheme{src="pages/ru_ru/multibloki/energy/scenes/steal-1.scene.json" caption="Пример мультиблочной структуры"}
+<<<<<<< HEAD
+<text key="import" header="Поставка">
+Поставлять железо можно с любой стороны
+</text>
+<text key="export" header="Выгрузка">
+Забирать результат можно с любой стороны
+</text>
+:::
+
+Необходимые ресурсы:  
+=======
 <text key="energy">
 Шина импорта
 </text>
@@ -41,6 +52,7 @@ icon:
 :::
 
 Необходимые ресурсы:
+>>>>>>> b54b6d701d7241b8da1b35cf5b9f678487e82b65
 
 - <item id="lolienergistics:blast_furnace_brick" count="27"/>
 
