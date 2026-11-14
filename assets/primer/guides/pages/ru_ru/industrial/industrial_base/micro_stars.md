@@ -23,10 +23,12 @@ icon:
 
 Каждая микрозвезда создаётся из своего ядра:
 
-- <item id="lolienergistics:astrolion_core" /> > <item id="lolienergistics:astrolion_micro_star" />
-- <item id="lolienergistics:sun_core" /> > <item id="lolienergistics:sun_micro_star" />
-- <item id="lolienergistics:sirius_core" /> > <item id="lolienergistics:sirius_micro_star" />
-- <item id="lolienergistics:zodius_core" /> > <item id="lolienergistics:zodius_micro_star" />
+| Ядро                                         | Микрозвезда                                        |
+| :------------------------------------------- | :------------------------------------------------- |
+| <item id="lolienergistics:astrolion_core" /> | <item id="lolienergistics:astrolion_micro_star" /> |
+| <item id="lolienergistics:sun_core" />       | <item id="lolienergistics:sun_micro_star" />       |
+| <item id="lolienergistics:sirius_core" />    | <item id="lolienergistics:sirius_micro_star" />    |
+| <item id="lolienergistics:zodius_core" />    | <item id="lolienergistics:zodius_micro_star" />    |
 
 # Создание микрозвезды {#micro-star-creation}
 

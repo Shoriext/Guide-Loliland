@@ -49,8 +49,10 @@ icon:
 
 Переработка в обоих вариантах одинаковая:
 
-- <item id="uniresources:ingotIron" /> > <item id="lolienergistics:hot_iron_ingot" />
-- <item id="uniresources:blockIron" /> > <item id="lolienergistics:hot_iron_block" />
+| Сырьё                                | Результат                                    |
+| :----------------------------------- | :------------------------------------------- |
+| <item id="uniresources:ingotIron" /> | <item id="lolienergistics:hot_iron_ingot" /> |
+| <item id="uniresources:blockIron" /> | <item id="lolienergistics:hot_iron_block" /> |
 
 ## Обычная доменная печь {#steel-blast-furnace-basic}
 
@@ -98,8 +100,10 @@ icon:
 
 Последний шаг – охлаждение нагретого железа в **закалочной ванне**. Это промышленная версия функционального блока <item id="lolienergistics:cauldron" />.
 
-- <item id="lolienergistics:hot_iron_ingot" /> > <item id="uniresources:ingotSteel" />
-- <item id="lolienergistics:hot_iron_block" /> > <item id="uniresources:blockSteel" />
+| Сырьё                                        | Результат                             |
+| :------------------------------------------- | :------------------------------------ |
+| <item id="lolienergistics:hot_iron_ingot" /> | <item id="uniresources:ingotSteel" /> |
+| <item id="lolienergistics:hot_iron_block" /> | <item id="uniresources:blockSteel" /> |
 
 Ванне нужны энергия и одна из трёх охлаждающих жидкостей. Их список виден при наведении курсора на бак в интерфейсе.\
 Чем выше уровень жидкости, тем быстрее идёт процесс. За один цикл ванна обрабатывает весь буфер, а с жидкостью третьего уровня – мгновенно.
@@ -119,7 +123,9 @@ icon:
 2. Отправьте полученное топливо и <item id="uniresources:ingotIron" /> в доменную печь.
 3. Переложите <item id="lolienergistics:hot_iron_ingot" /> в закалочную ванну и заберите сталь.
 
-Чтобы ускорить производство, перерабатывайте сразу блоки: <item id="uniresources:blockIron" /> > <item id="lolienergistics:hot_iron_block" /> > <item id="uniresources:blockSteel" />.
+Чтобы ускорить производство, перерабатывайте сразу блоки.\
+Сырьё: <item id="uniresources:blockIron" />\
+Результат: <item id="uniresources:blockSteel" />
 
 :::callout{type="tip"}
 Соедините промышленную доменную печь и закалочную ванну через МЭ-сеть. Нагретое железо будет сразу уходить на охлаждение, и цепочка заработает автоматически.
