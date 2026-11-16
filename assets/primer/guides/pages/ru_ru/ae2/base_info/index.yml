@@ -1,0 +1,9 @@
+title: "Основы"
+pages: [
+        info,
+        controllers, 
+        cabels_busbars, 
+        storage_cell, 
+        terminals, 
+        assemblers,  
+        interfaces]

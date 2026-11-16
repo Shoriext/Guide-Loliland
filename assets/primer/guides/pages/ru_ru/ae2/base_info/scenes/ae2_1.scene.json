@@ -3,26 +3,18 @@
   "version": 1,
   "structure": {
     "size": [
-      3,
-      4,
-      4
+      2,
+      2,
+      2
     ],
     "palette": [
-      {
-        "block": "lolidecorative:colored_black",
-        "meta": 0
-      },
-      {
-        "block": "lolidecorative:colored_white",
-        "meta": 0
-      },
       {
         "block": "IC2:blockCable",
         "meta": 9
       },
       {
         "block": "appliedenergistics2:tile.BlockController",
-        "meta": 1
+        "meta": 0
       },
       {
         "block": "appliedenergistics2:tile.BlockDrive",
@@ -40,39 +32,7 @@
           0,
           0
         ],
-        "state": 0
-      },
-      {
-        "pos": [
-          0,
-          0,
-          1
-        ],
-        "state": 1
-      },
-      {
-        "pos": [
-          0,
-          0,
-          2
-        ],
-        "state": 0
-      },
-      {
-        "pos": [
-          0,
-          0,
-          3
-        ],
-        "state": 1
-      },
-      {
-        "pos": [
-          0,
-          1,
-          1
-        ],
-        "state": 2,
+        "state": 0,
         "data": {
           "type": "IC2:block",
           "version": 1,
@@ -151,39 +111,7 @@
           0,
           0
         ],
-        "state": 1
-      },
-      {
-        "pos": [
-          1,
-          0,
-          1
-        ],
-        "state": 0
-      },
-      {
-        "pos": [
-          1,
-          0,
-          2
-        ],
-        "state": 1
-      },
-      {
-        "pos": [
-          1,
-          0,
-          3
-        ],
-        "state": 0
-      },
-      {
-        "pos": [
-          1,
-          1,
-          1
-        ],
-        "state": 3,
+        "state": 1,
         "data": {
           "type": "appliedenergistics2:block",
           "version": 2,
@@ -196,7 +124,7 @@
               },
               "internalCurrentPower": {
                 "t": 6,
-                "v": 8000.0
+                "v": 0.0
               },
               "inv": {
                 "t": 10,
@@ -234,10 +162,10 @@
       {
         "pos": [
           1,
-          1,
-          2
+          0,
+          1
         ],
-        "state": 4,
+        "state": 2,
         "data": {
           "type": "appliedenergistics2:block",
           "version": 2,
@@ -283,11 +211,11 @@
               "v": {
                 "blinkAge": {
                   "t": 4,
-                  "v": 411348
+                  "v": 653085
                 },
                 "state": {
                   "t": 3,
-                  "v": -2147483648
+                  "v": 0
                 }
               }
             }
@@ -297,10 +225,10 @@
       {
         "pos": [
           1,
-          2,
-          2
+          1,
+          1
         ],
-        "state": 5,
+        "state": 3,
         "data": {
           "type": "appliedenergistics2:block",
           "version": 2,
@@ -432,7 +360,7 @@
                   "v": {
                     "flags": {
                       "t": 3,
-                      "v": 20
+                      "v": 16
                     }
                   }
                 },
@@ -445,7 +373,7 @@
                     },
                     "powered": {
                       "t": 1,
-                      "v": 1
+                      "v": 0
                     }
                   }
                 }
@@ -453,51 +381,19 @@
             }
           }
         }
-      },
-      {
-        "pos": [
-          2,
-          0,
-          0
-        ],
-        "state": 0
-      },
-      {
-        "pos": [
-          2,
-          0,
-          1
-        ],
-        "state": 1
-      },
-      {
-        "pos": [
-          2,
-          0,
-          2
-        ],
-        "state": 0
-      },
-      {
-        "pos": [
-          2,
-          0,
-          3
-        ],
-        "state": 1
       }
     ],
     "entities": []
   },
   "view": {
-    "yaw": -77.39999999999996,
-    "pitch": 43.75000000000001,
+    "yaw": -88.65000000000006,
+    "pitch": 8.000000000000028,
     "zoom": 0.9090909090909091,
-    "fov": 70.0,
+    "fov": 90.0,
     "target": [
-      1.5,
-      2.0,
-      2.0
+      1.0,
+      1.0,
+      1.0
     ]
   },
   "lighting": {
